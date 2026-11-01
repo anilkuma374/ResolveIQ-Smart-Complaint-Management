@@ -1,0 +1,56 @@
+[
+  {
+    "issue_id": "ISS-CMP-2026-000001",
+    "complaint_id": "CMP-2026-000001",
+    "issue_type": "missing_customer",
+    "ground_truth_label": "Complaint without customer",
+    "description": "Customer reference is missing.",
+    "detected": 0,
+    "detected_at": null
+  },
+  {
+    "issue_id": "ISS-CMP-2026-000002",
+    "complaint_id": "CMP-2026-000002",
+    "issue_type": "resolution_before_complaint",
+    "ground_truth_label": "Resolution before complaint",
+    "description": "Resolution timestamp precedes complaint creation.",
+    "detected": 0,
+    "detected_at": null
+  },
+  {
+    "issue_id": "ISS-CMP-2026-000003",
+    "complaint_id": "CMP-2026-000003",
+    "issue_type": "invalid_sla_pause",
+    "ground_truth_label": "SLA clock pauses incorrectly",
+    "description": "Resume timestamp precedes pause start.",
+    "detected": 0,
+    "detected_at": null
+  },
+  {
+    "issue_id": "ISS-CMP-2026-000004",
+    "complaint_id": "CMP-2026-000004",
+    "issue_type": "repeat_issue_unlinked",
+    "ground_truth_label": "Repeat issue not linked",
+    "description": "Recurrence exists but related complaint link is absent.",
+    "detected": 0,
+    "detected_at": null
+  },
+  {
+    "issue_id": "ISS-CMP-2026-000005",
+    "complaint_id": "CMP-2026-000005",
+    "issue_type": "critical_in_low_queue",
+    "ground_truth_label": "Critical safety issue assigned to low-priority queue",
+    "description": "Critical safety issue routed to Customer Care.",
+    "detected": 0,
+    "detected_at": null
+  },
+  {
+    "issue_id": "ISS-CMP-2026-000006",
+    "complaint_id": "CMP-2026-000006",
+    "issue_type": "survey_before_closure",
+    "ground_truth_label": "Survey before closure",
+    "description": "Survey sent before closure.",
+    "detected": 0,
+    "detected_at": null
+  }
+]

@@ -1,0 +1,9 @@
+product_id,product_name,product_type,unit_price,safety_sensitive,active
+PRD-0001,Smartphone X,Electronics,42000.0,1,1
+PRD-0002,Laptop Pro,Electronics,78000.0,0,1
+PRD-0003,Refrigerator 300L,Appliances,52000.0,1,1
+PRD-0004,Washing Machine,Appliances,34000.0,0,1
+PRD-0005,Wireless Earbuds,Electronics,4500.0,0,1
+PRD-0006,Air Purifier,Appliances,18000.0,0,1
+PRD-0007,Smart Watch,Electronics,12000.0,0,1
+PRD-0008,Mixer Grinder,Appliances,6500.0,0,1

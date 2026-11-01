@@ -1,0 +1,7 @@
+rule_id,rule_name,condition_key,condition_value,priority_level,precedence,effective_from,effective_to,active
+PR-001,Priority rule 1,safety,true,Critical,1,2025-10-22T12:00:00,,1
+PR-002,Priority rule 2,severity,Critical,Critical,2,2025-10-22T12:00:00,,1
+PR-003,Priority rule 3,recurrence,3+,High,3,2025-10-22T12:00:00,,1
+PR-004,Priority rule 4,vulnerable,negative,High,4,2025-10-22T12:00:00,,1
+PR-005,Priority rule 5,value,50000+,High,5,2025-10-22T12:00:00,,1
+PR-006,Priority rule 6,sentiment,very negative,High,6,2025-10-22T12:00:00,,1

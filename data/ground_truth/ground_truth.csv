@@ -1,0 +1,7 @@
+issue_type,ground_truth_label,complaint_id,description
+missing_customer,Complaint without customer,CMP-2026-000001,Customer reference is missing.
+resolution_before_complaint,Resolution before complaint,CMP-2026-000002,Resolution timestamp precedes complaint creation.
+invalid_sla_pause,SLA clock pauses incorrectly,CMP-2026-000003,Resume timestamp precedes pause start.
+repeat_issue_unlinked,Repeat issue not linked,CMP-2026-000004,Recurrence exists but related complaint link is absent.
+critical_in_low_queue,Critical safety issue assigned to low-priority queue,CMP-2026-000005,Critical safety issue routed to Customer Care.
+survey_before_closure,Survey before closure,CMP-2026-000006,Survey sent before closure.

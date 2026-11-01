@@ -1,0 +1,7 @@
+issue_id,complaint_id,issue_type,ground_truth_label,description,detected,detected_at
+ISS-CMP-2026-000001,CMP-2026-000001,missing_customer,Complaint without customer,Customer reference is missing.,0,
+ISS-CMP-2026-000002,CMP-2026-000002,resolution_before_complaint,Resolution before complaint,Resolution timestamp precedes complaint creation.,0,
+ISS-CMP-2026-000003,CMP-2026-000003,invalid_sla_pause,SLA clock pauses incorrectly,Resume timestamp precedes pause start.,0,
+ISS-CMP-2026-000004,CMP-2026-000004,repeat_issue_unlinked,Repeat issue not linked,Recurrence exists but related complaint link is absent.,0,
+ISS-CMP-2026-000005,CMP-2026-000005,critical_in_low_queue,Critical safety issue assigned to low-priority queue,Critical safety issue routed to Customer Care.,0,
+ISS-CMP-2026-000006,CMP-2026-000006,survey_before_closure,Survey before closure,Survey sent before closure.,0,

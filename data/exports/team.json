@@ -1,0 +1,26 @@
+[
+  {
+    "team_id": "TEAM-001",
+    "team_name": "Safety"
+  },
+  {
+    "team_id": "TEAM-002",
+    "team_name": "Technical Support"
+  },
+  {
+    "team_id": "TEAM-003",
+    "team_name": "Logistics"
+  },
+  {
+    "team_id": "TEAM-004",
+    "team_name": "Billing"
+  },
+  {
+    "team_id": "TEAM-005",
+    "team_name": "Customer Care"
+  },
+  {
+    "team_id": "TEAM-006",
+    "team_name": "Order Management"
+  }
+]

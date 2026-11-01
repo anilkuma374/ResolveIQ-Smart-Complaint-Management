@@ -1,0 +1,11 @@
+category_id,category_name,description,default_team
+CAT-001,Product Safety,"Safety concern: overheating, smoke, fire, shock, injury",Safety
+CAT-002,Product Defect,"Damaged, defective, broken, malfunction",Technical Support
+CAT-003,Delivery,"Late, delayed, missing delivery, courier",Logistics
+CAT-004,Refund,Refund and reimbursement,Billing
+CAT-005,Payment,Payment and invoice,Billing
+CAT-006,Account,Login and profile access,Customer Care
+CAT-007,Warranty,Warranty repair,Technical Support
+CAT-008,Service,Customer service experience,Customer Care
+CAT-009,Cancellation,Order cancellation,Order Management
+CAT-010,Other,Other complaint,Customer Care

@@ -1,0 +1,29 @@
+{
+  "seed": 20261022,
+  "scale": 1.0,
+  "counts": {
+    "customers": 5000,
+    "orders": 8000,
+    "complaints": 2000,
+    "messages": 6000
+  },
+  "edge_case_count": 6,
+  "checksums": {
+    "agent.csv": "3f52edf8c3e43fa8fba637f8ee782ca7f7d06f7d907d7c57fd0041f635ccd2da",
+    "anomalyissue.csv": "7d42d5d2cf94f46dab5f7e39edf65e45103d4658aa6541cefecf742f9a5a9b4c",
+    "assignment.csv": "536ba208462be487937b0ce74700256c4a5c4757c961ade590917e528f6eaf89",
+    "category.csv": "186eb40306d095abbdf860cc34fec2218f65aef37fe0cd1c9931a99115ecf6ec",
+    "complaint.csv": "94f6a3e77e1dc752b58dc4d6ae151f94d7f1f015367e7c17aac101aec1bad282",
+    "complaintmessage.csv": "a9afe898b7826f549305bb265b4b813061fda9f376b8db3e152e81d9afa93c2a",
+    "customer.csv": "aeb79e6b219a0621ff19b2ad10e9d01c66ff6d0229de46e3dfc00d139efff8f5",
+    "order.csv": "373567db9e90a0f8ff77048bb1c3a969c7ab7bfb992f53dee536774c1c0efd29",
+    "priorityrule.csv": "ced5c671c1faf2d037ec978474c4e0428038a3f56511d830abc5119ee4ffd507",
+    "product.csv": "81f1212d8fa1e4ed9d713738045a4096ecc78412b94e0ee3b775fb73bf63177f",
+    "resolution.csv": "bde50a614797aef7d06039a58a9025d22026ee2048e3c47ac858c095f9c87014",
+    "slaclock.csv": "abdb1d3e93fa19c79fad93b7dd180b1d91f74f466559a957adf294a716ff739f",
+    "slaevent.csv": "8845c0b66ac4541f5edc8fd6708e1bd394c8e82947adcbc46258a9a25e2fb1dc",
+    "statusevent.csv": "f311a5e579ebc91af83012abcae01924cb4f15b01b9b439ea27187ba42727f41",
+    "survey.csv": "8f9215fab95b830d33426e6d4f61a0853527d788fee31458f551e88b97a60300",
+    "team.csv": "7fa4565164497e599ca56eac7d4047177c93dc889e1c958a8110c9459608f040"
+  }
+}

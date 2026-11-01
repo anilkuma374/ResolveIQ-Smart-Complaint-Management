@@ -1,0 +1,62 @@
+[
+  {
+    "category_id": "CAT-001",
+    "category_name": "Product Safety",
+    "description": "Safety concern: overheating, smoke, fire, shock, injury",
+    "default_team": "Safety"
+  },
+  {
+    "category_id": "CAT-002",
+    "category_name": "Product Defect",
+    "description": "Damaged, defective, broken, malfunction",
+    "default_team": "Technical Support"
+  },
+  {
+    "category_id": "CAT-003",
+    "category_name": "Delivery",
+    "description": "Late, delayed, missing delivery, courier",
+    "default_team": "Logistics"
+  },
+  {
+    "category_id": "CAT-004",
+    "category_name": "Refund",
+    "description": "Refund and reimbursement",
+    "default_team": "Billing"
+  },
+  {
+    "category_id": "CAT-005",
+    "category_name": "Payment",
+    "description": "Payment and invoice",
+    "default_team": "Billing"
+  },
+  {
+    "category_id": "CAT-006",
+    "category_name": "Account",
+    "description": "Login and profile access",
+    "default_team": "Customer Care"
+  },
+  {
+    "category_id": "CAT-007",
+    "category_name": "Warranty",
+    "description": "Warranty repair",
+    "default_team": "Technical Support"
+  },
+  {
+    "category_id": "CAT-008",
+    "category_name": "Service",
+    "description": "Customer service experience",
+    "default_team": "Customer Care"
+  },
+  {
+    "category_id": "CAT-009",
+    "category_name": "Cancellation",
+    "description": "Order cancellation",
+    "default_team": "Order Management"
+  },
+  {
+    "category_id": "CAT-010",
+    "category_name": "Other",
+    "description": "Other complaint",
+    "default_team": "Customer Care"
+  }
+]

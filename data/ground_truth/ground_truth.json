@@ -1,0 +1,38 @@
+[
+  {
+    "issue_type": "missing_customer",
+    "ground_truth_label": "Complaint without customer",
+    "complaint_id": "CMP-2026-000001",
+    "description": "Customer reference is missing."
+  },
+  {
+    "issue_type": "resolution_before_complaint",
+    "ground_truth_label": "Resolution before complaint",
+    "complaint_id": "CMP-2026-000002",
+    "description": "Resolution timestamp precedes complaint creation."
+  },
+  {
+    "issue_type": "invalid_sla_pause",
+    "ground_truth_label": "SLA clock pauses incorrectly",
+    "complaint_id": "CMP-2026-000003",
+    "description": "Resume timestamp precedes pause start."
+  },
+  {
+    "issue_type": "repeat_issue_unlinked",
+    "ground_truth_label": "Repeat issue not linked",
+    "complaint_id": "CMP-2026-000004",
+    "description": "Recurrence exists but related complaint link is absent."
+  },
+  {
+    "issue_type": "critical_in_low_queue",
+    "ground_truth_label": "Critical safety issue assigned to low-priority queue",
+    "complaint_id": "CMP-2026-000005",
+    "description": "Critical safety issue routed to Customer Care."
+  },
+  {
+    "issue_type": "survey_before_closure",
+    "ground_truth_label": "Survey before closure",
+    "complaint_id": "CMP-2026-000006",
+    "description": "Survey sent before closure."
+  }
+]

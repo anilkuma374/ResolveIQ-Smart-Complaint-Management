@@ -1,0 +1,66 @@
+[
+  {
+    "product_id": "PRD-0001",
+    "product_name": "Smartphone X",
+    "product_type": "Electronics",
+    "unit_price": 42000.0,
+    "safety_sensitive": 1,
+    "active": 1
+  },
+  {
+    "product_id": "PRD-0002",
+    "product_name": "Laptop Pro",
+    "product_type": "Electronics",
+    "unit_price": 78000.0,
+    "safety_sensitive": 0,
+    "active": 1
+  },
+  {
+    "product_id": "PRD-0003",
+    "product_name": "Refrigerator 300L",
+    "product_type": "Appliances",
+    "unit_price": 52000.0,
+    "safety_sensitive": 1,
+    "active": 1
+  },
+  {
+    "product_id": "PRD-0004",
+    "product_name": "Washing Machine",
+    "product_type": "Appliances",
+    "unit_price": 34000.0,
+    "safety_sensitive": 0,
+    "active": 1
+  },
+  {
+    "product_id": "PRD-0005",
+    "product_name": "Wireless Earbuds",
+    "product_type": "Electronics",
+    "unit_price": 4500.0,
+    "safety_sensitive": 0,
+    "active": 1
+  },
+  {
+    "product_id": "PRD-0006",
+    "product_name": "Air Purifier",
+    "product_type": "Appliances",
+    "unit_price": 18000.0,
+    "safety_sensitive": 0,
+    "active": 1
+  },
+  {
+    "product_id": "PRD-0007",
+    "product_name": "Smart Watch",
+    "product_type": "Electronics",
+    "unit_price": 12000.0,
+    "safety_sensitive": 0,
+    "active": 1
+  },
+  {
+    "product_id": "PRD-0008",
+    "product_name": "Mixer Grinder",
+    "product_type": "Appliances",
+    "unit_price": 6500.0,
+    "safety_sensitive": 0,
+    "active": 1
+  }
+]

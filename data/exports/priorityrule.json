@@ -1,0 +1,68 @@
+[
+  {
+    "rule_id": "PR-001",
+    "rule_name": "Priority rule 1",
+    "condition_key": "safety",
+    "condition_value": "true",
+    "priority_level": "Critical",
+    "precedence": 1,
+    "effective_from": "2025-10-22T12:00:00",
+    "effective_to": null,
+    "active": 1
+  },
+  {
+    "rule_id": "PR-002",
+    "rule_name": "Priority rule 2",
+    "condition_key": "severity",
+    "condition_value": "Critical",
+    "priority_level": "Critical",
+    "precedence": 2,
+    "effective_from": "2025-10-22T12:00:00",
+    "effective_to": null,
+    "active": 1
+  },
+  {
+    "rule_id": "PR-003",
+    "rule_name": "Priority rule 3",
+    "condition_key": "recurrence",
+    "condition_value": "3+",
+    "priority_level": "High",
+    "precedence": 3,
+    "effective_from": "2025-10-22T12:00:00",
+    "effective_to": null,
+    "active": 1
+  },
+  {
+    "rule_id": "PR-004",
+    "rule_name": "Priority rule 4",
+    "condition_key": "vulnerable",
+    "condition_value": "negative",
+    "priority_level": "High",
+    "precedence": 4,
+    "effective_from": "2025-10-22T12:00:00",
+    "effective_to": null,
+    "active": 1
+  },
+  {
+    "rule_id": "PR-005",
+    "rule_name": "Priority rule 5",
+    "condition_key": "value",
+    "condition_value": "50000+",
+    "priority_level": "High",
+    "precedence": 5,
+    "effective_from": "2025-10-22T12:00:00",
+    "effective_to": null,
+    "active": 1
+  },
+  {
+    "rule_id": "PR-006",
+    "rule_name": "Priority rule 6",
+    "condition_key": "sentiment",
+    "condition_value": "very negative",
+    "priority_level": "High",
+    "precedence": 6,
+    "effective_from": "2025-10-22T12:00:00",
+    "effective_to": null,
+    "active": 1
+  }
+]

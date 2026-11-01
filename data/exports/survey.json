@@ -1,0 +1,4306 @@
+[
+  {
+    "survey_id": "SRV-CMP-2026-000001",
+    "complaint_id": "CMP-2026-000001",
+    "sent_at": "2026-08-11T13:00:00",
+    "response_at": "2026-08-12T13:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000002",
+    "complaint_id": "CMP-2026-000002",
+    "sent_at": "2026-10-21T07:00:00",
+    "response_at": "2026-10-22T07:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000007",
+    "complaint_id": "CMP-2026-000007",
+    "sent_at": "2026-08-23T09:00:00",
+    "response_at": "2026-08-24T09:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000012",
+    "complaint_id": "CMP-2026-000012",
+    "sent_at": "2026-09-07T10:00:00",
+    "response_at": "2026-09-08T10:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000016",
+    "complaint_id": "CMP-2026-000016",
+    "sent_at": "2026-08-10T06:00:00",
+    "response_at": "2026-08-11T06:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000022",
+    "complaint_id": "CMP-2026-000022",
+    "sent_at": "2026-07-29T17:00:00",
+    "response_at": "2026-07-30T17:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000025",
+    "complaint_id": "CMP-2026-000025",
+    "sent_at": "2026-08-07T03:00:00",
+    "response_at": "2026-08-08T03:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000034",
+    "complaint_id": "CMP-2026-000034",
+    "sent_at": "2026-08-30T10:00:00",
+    "response_at": "2026-08-31T10:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000036",
+    "complaint_id": "CMP-2026-000036",
+    "sent_at": "2026-09-30T11:00:00",
+    "response_at": "2026-10-01T11:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000038",
+    "complaint_id": "CMP-2026-000038",
+    "sent_at": "2026-10-02T00:00:00",
+    "response_at": "2026-10-03T00:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000044",
+    "complaint_id": "CMP-2026-000044",
+    "sent_at": "2026-08-30T21:00:00",
+    "response_at": "2026-08-31T21:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000046",
+    "complaint_id": "CMP-2026-000046",
+    "sent_at": "2026-09-19T05:00:00",
+    "response_at": "2026-09-20T05:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000047",
+    "complaint_id": "CMP-2026-000047",
+    "sent_at": "2026-08-16T19:00:00",
+    "response_at": "2026-08-17T19:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000049",
+    "complaint_id": "CMP-2026-000049",
+    "sent_at": "2026-09-23T11:00:00",
+    "response_at": "2026-09-24T11:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000058",
+    "complaint_id": "CMP-2026-000058",
+    "sent_at": "2026-09-09T20:00:00",
+    "response_at": "2026-09-10T20:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000062",
+    "complaint_id": "CMP-2026-000062",
+    "sent_at": "2026-09-16T03:00:00",
+    "response_at": "2026-09-17T03:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000072",
+    "complaint_id": "CMP-2026-000072",
+    "sent_at": "2026-10-24T18:00:00",
+    "response_at": "2026-10-25T18:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000073",
+    "complaint_id": "CMP-2026-000073",
+    "sent_at": "2026-08-08T20:00:00",
+    "response_at": "2026-08-09T20:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000091",
+    "complaint_id": "CMP-2026-000091",
+    "sent_at": "2026-09-01T19:00:00",
+    "response_at": "2026-09-02T19:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000094",
+    "complaint_id": "CMP-2026-000094",
+    "sent_at": "2026-08-26T13:00:00",
+    "response_at": "2026-08-27T13:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000095",
+    "complaint_id": "CMP-2026-000095",
+    "sent_at": "2026-07-28T21:00:00",
+    "response_at": "2026-07-29T21:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000097",
+    "complaint_id": "CMP-2026-000097",
+    "sent_at": "2026-09-25T13:00:00",
+    "response_at": "2026-09-26T13:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000098",
+    "complaint_id": "CMP-2026-000098",
+    "sent_at": "2026-09-23T01:00:00",
+    "response_at": "2026-09-24T01:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000100",
+    "complaint_id": "CMP-2026-000100",
+    "sent_at": "2026-10-07T09:00:00",
+    "response_at": "2026-10-08T09:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000103",
+    "complaint_id": "CMP-2026-000103",
+    "sent_at": "2026-10-20T04:00:00",
+    "response_at": "2026-10-21T04:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000104",
+    "complaint_id": "CMP-2026-000104",
+    "sent_at": "2026-08-11T09:00:00",
+    "response_at": "2026-08-12T09:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000105",
+    "complaint_id": "CMP-2026-000105",
+    "sent_at": "2026-09-23T16:00:00",
+    "response_at": "2026-09-24T16:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000106",
+    "complaint_id": "CMP-2026-000106",
+    "sent_at": "2026-09-08T03:00:00",
+    "response_at": "2026-09-09T03:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000112",
+    "complaint_id": "CMP-2026-000112",
+    "sent_at": "2026-10-20T04:00:00",
+    "response_at": "2026-10-21T04:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000113",
+    "complaint_id": "CMP-2026-000113",
+    "sent_at": "2026-08-16T08:00:00",
+    "response_at": "2026-08-17T08:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000122",
+    "complaint_id": "CMP-2026-000122",
+    "sent_at": "2026-10-03T05:00:00",
+    "response_at": "2026-10-04T05:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000127",
+    "complaint_id": "CMP-2026-000127",
+    "sent_at": "2026-09-22T04:00:00",
+    "response_at": "2026-09-23T04:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000129",
+    "complaint_id": "CMP-2026-000129",
+    "sent_at": "2026-10-16T15:00:00",
+    "response_at": "2026-10-17T15:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000130",
+    "complaint_id": "CMP-2026-000130",
+    "sent_at": "2026-08-01T04:00:00",
+    "response_at": "2026-08-02T04:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000132",
+    "complaint_id": "CMP-2026-000132",
+    "sent_at": "2026-09-19T20:00:00",
+    "response_at": "2026-09-20T20:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000134",
+    "complaint_id": "CMP-2026-000134",
+    "sent_at": "2026-10-14T06:00:00",
+    "response_at": "2026-10-15T06:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000139",
+    "complaint_id": "CMP-2026-000139",
+    "sent_at": "2026-09-16T02:00:00",
+    "response_at": "2026-09-17T02:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000141",
+    "complaint_id": "CMP-2026-000141",
+    "sent_at": "2026-10-16T20:00:00",
+    "response_at": "2026-10-17T20:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000142",
+    "complaint_id": "CMP-2026-000142",
+    "sent_at": "2026-08-26T15:00:00",
+    "response_at": "2026-08-27T15:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000143",
+    "complaint_id": "CMP-2026-000143",
+    "sent_at": "2026-10-20T13:00:00",
+    "response_at": "2026-10-21T13:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000149",
+    "complaint_id": "CMP-2026-000149",
+    "sent_at": "2026-10-10T04:00:00",
+    "response_at": "2026-10-11T04:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000155",
+    "complaint_id": "CMP-2026-000155",
+    "sent_at": "2026-09-14T19:00:00",
+    "response_at": "2026-09-15T19:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000156",
+    "complaint_id": "CMP-2026-000156",
+    "sent_at": "2026-09-15T05:00:00",
+    "response_at": "2026-09-16T05:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000159",
+    "complaint_id": "CMP-2026-000159",
+    "sent_at": "2026-09-12T00:00:00",
+    "response_at": "2026-09-13T00:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000162",
+    "complaint_id": "CMP-2026-000162",
+    "sent_at": "2026-09-11T14:00:00",
+    "response_at": "2026-09-12T14:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000163",
+    "complaint_id": "CMP-2026-000163",
+    "sent_at": "2026-09-18T00:00:00",
+    "response_at": "2026-09-19T00:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000164",
+    "complaint_id": "CMP-2026-000164",
+    "sent_at": "2026-08-25T02:00:00",
+    "response_at": "2026-08-26T02:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000165",
+    "complaint_id": "CMP-2026-000165",
+    "sent_at": "2026-09-28T20:00:00",
+    "response_at": "2026-09-29T20:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000173",
+    "complaint_id": "CMP-2026-000173",
+    "sent_at": "2026-09-07T06:00:00",
+    "response_at": "2026-09-08T06:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000175",
+    "complaint_id": "CMP-2026-000175",
+    "sent_at": "2026-10-14T18:00:00",
+    "response_at": "2026-10-15T18:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000178",
+    "complaint_id": "CMP-2026-000178",
+    "sent_at": "2026-10-03T04:00:00",
+    "response_at": "2026-10-04T04:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000179",
+    "complaint_id": "CMP-2026-000179",
+    "sent_at": "2026-08-02T01:00:00",
+    "response_at": "2026-08-03T01:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000186",
+    "complaint_id": "CMP-2026-000186",
+    "sent_at": "2026-10-14T07:00:00",
+    "response_at": "2026-10-15T07:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000192",
+    "complaint_id": "CMP-2026-000192",
+    "sent_at": "2026-08-29T07:00:00",
+    "response_at": "2026-08-30T07:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000195",
+    "complaint_id": "CMP-2026-000195",
+    "sent_at": "2026-09-06T10:00:00",
+    "response_at": "2026-09-07T10:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000196",
+    "complaint_id": "CMP-2026-000196",
+    "sent_at": "2026-09-22T16:00:00",
+    "response_at": "2026-09-23T16:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000198",
+    "complaint_id": "CMP-2026-000198",
+    "sent_at": "2026-10-10T00:00:00",
+    "response_at": "2026-10-11T00:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000201",
+    "complaint_id": "CMP-2026-000201",
+    "sent_at": "2026-10-19T20:00:00",
+    "response_at": "2026-10-20T20:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000204",
+    "complaint_id": "CMP-2026-000204",
+    "sent_at": "2026-08-02T18:00:00",
+    "response_at": "2026-08-03T18:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000205",
+    "complaint_id": "CMP-2026-000205",
+    "sent_at": "2026-10-05T13:00:00",
+    "response_at": "2026-10-06T13:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000210",
+    "complaint_id": "CMP-2026-000210",
+    "sent_at": "2026-10-05T22:00:00",
+    "response_at": "2026-10-06T22:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000211",
+    "complaint_id": "CMP-2026-000211",
+    "sent_at": "2026-08-23T19:00:00",
+    "response_at": "2026-08-24T19:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000214",
+    "complaint_id": "CMP-2026-000214",
+    "sent_at": "2026-08-09T12:00:00",
+    "response_at": "2026-08-10T12:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000216",
+    "complaint_id": "CMP-2026-000216",
+    "sent_at": "2026-09-19T10:00:00",
+    "response_at": "2026-09-20T10:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000220",
+    "complaint_id": "CMP-2026-000220",
+    "sent_at": "2026-08-27T11:00:00",
+    "response_at": "2026-08-28T11:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000221",
+    "complaint_id": "CMP-2026-000221",
+    "sent_at": "2026-08-24T21:00:00",
+    "response_at": "2026-08-25T21:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000223",
+    "complaint_id": "CMP-2026-000223",
+    "sent_at": "2026-09-13T03:00:00",
+    "response_at": "2026-09-14T03:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000224",
+    "complaint_id": "CMP-2026-000224",
+    "sent_at": "2026-08-28T18:00:00",
+    "response_at": "2026-08-29T18:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000226",
+    "complaint_id": "CMP-2026-000226",
+    "sent_at": "2026-09-04T03:00:00",
+    "response_at": "2026-09-05T03:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000230",
+    "complaint_id": "CMP-2026-000230",
+    "sent_at": "2026-09-10T05:00:00",
+    "response_at": "2026-09-11T05:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000232",
+    "complaint_id": "CMP-2026-000232",
+    "sent_at": "2026-09-20T09:00:00",
+    "response_at": "2026-09-21T09:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000233",
+    "complaint_id": "CMP-2026-000233",
+    "sent_at": "2026-09-13T02:00:00",
+    "response_at": "2026-09-14T02:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000239",
+    "complaint_id": "CMP-2026-000239",
+    "sent_at": "2026-10-04T04:00:00",
+    "response_at": "2026-10-05T04:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000244",
+    "complaint_id": "CMP-2026-000244",
+    "sent_at": "2026-08-25T01:00:00",
+    "response_at": "2026-08-26T01:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000251",
+    "complaint_id": "CMP-2026-000251",
+    "sent_at": "2026-08-28T04:00:00",
+    "response_at": "2026-08-29T04:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000252",
+    "complaint_id": "CMP-2026-000252",
+    "sent_at": "2026-08-28T09:00:00",
+    "response_at": "2026-08-29T09:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000262",
+    "complaint_id": "CMP-2026-000262",
+    "sent_at": "2026-09-29T03:00:00",
+    "response_at": "2026-09-30T03:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000266",
+    "complaint_id": "CMP-2026-000266",
+    "sent_at": "2026-09-19T09:00:00",
+    "response_at": "2026-09-20T09:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000274",
+    "complaint_id": "CMP-2026-000274",
+    "sent_at": "2026-08-26T10:00:00",
+    "response_at": "2026-08-27T10:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000280",
+    "complaint_id": "CMP-2026-000280",
+    "sent_at": "2026-09-14T07:00:00",
+    "response_at": "2026-09-15T07:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000282",
+    "complaint_id": "CMP-2026-000282",
+    "sent_at": "2026-09-01T11:00:00",
+    "response_at": "2026-09-02T11:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000286",
+    "complaint_id": "CMP-2026-000286",
+    "sent_at": "2026-08-02T18:00:00",
+    "response_at": "2026-08-03T18:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000290",
+    "complaint_id": "CMP-2026-000290",
+    "sent_at": "2026-08-26T16:00:00",
+    "response_at": "2026-08-27T16:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000291",
+    "complaint_id": "CMP-2026-000291",
+    "sent_at": "2026-09-17T16:00:00",
+    "response_at": "2026-09-18T16:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000295",
+    "complaint_id": "CMP-2026-000295",
+    "sent_at": "2026-10-05T21:00:00",
+    "response_at": "2026-10-06T21:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000297",
+    "complaint_id": "CMP-2026-000297",
+    "sent_at": "2026-09-29T05:00:00",
+    "response_at": "2026-09-30T05:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000298",
+    "complaint_id": "CMP-2026-000298",
+    "sent_at": "2026-10-02T20:00:00",
+    "response_at": "2026-10-03T20:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000300",
+    "complaint_id": "CMP-2026-000300",
+    "sent_at": "2026-09-19T06:00:00",
+    "response_at": "2026-09-20T06:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000305",
+    "complaint_id": "CMP-2026-000305",
+    "sent_at": "2026-09-13T03:00:00",
+    "response_at": "2026-09-14T03:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000308",
+    "complaint_id": "CMP-2026-000308",
+    "sent_at": "2026-09-11T11:00:00",
+    "response_at": "2026-09-12T11:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000309",
+    "complaint_id": "CMP-2026-000309",
+    "sent_at": "2026-10-03T20:00:00",
+    "response_at": "2026-10-04T20:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000313",
+    "complaint_id": "CMP-2026-000313",
+    "sent_at": "2026-10-11T21:00:00",
+    "response_at": "2026-10-12T21:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000314",
+    "complaint_id": "CMP-2026-000314",
+    "sent_at": "2026-07-27T20:00:00",
+    "response_at": "2026-07-28T20:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000320",
+    "complaint_id": "CMP-2026-000320",
+    "sent_at": "2026-07-31T00:00:00",
+    "response_at": "2026-08-01T00:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000321",
+    "complaint_id": "CMP-2026-000321",
+    "sent_at": "2026-08-28T10:00:00",
+    "response_at": "2026-08-29T10:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000333",
+    "complaint_id": "CMP-2026-000333",
+    "sent_at": "2026-08-22T02:00:00",
+    "response_at": "2026-08-23T02:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000339",
+    "complaint_id": "CMP-2026-000339",
+    "sent_at": "2026-10-13T00:00:00",
+    "response_at": "2026-10-14T00:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000346",
+    "complaint_id": "CMP-2026-000346",
+    "sent_at": "2026-10-07T07:00:00",
+    "response_at": "2026-10-08T07:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000348",
+    "complaint_id": "CMP-2026-000348",
+    "sent_at": "2026-10-06T02:00:00",
+    "response_at": "2026-10-07T02:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000353",
+    "complaint_id": "CMP-2026-000353",
+    "sent_at": "2026-10-05T05:00:00",
+    "response_at": "2026-10-06T05:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000357",
+    "complaint_id": "CMP-2026-000357",
+    "sent_at": "2026-09-25T20:00:00",
+    "response_at": "2026-09-26T20:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000361",
+    "complaint_id": "CMP-2026-000361",
+    "sent_at": "2026-09-30T02:00:00",
+    "response_at": "2026-10-01T02:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000362",
+    "complaint_id": "CMP-2026-000362",
+    "sent_at": "2026-10-21T22:00:00",
+    "response_at": "2026-10-22T22:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000367",
+    "complaint_id": "CMP-2026-000367",
+    "sent_at": "2026-10-25T10:00:00",
+    "response_at": "2026-10-26T10:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000369",
+    "complaint_id": "CMP-2026-000369",
+    "sent_at": "2026-09-19T22:00:00",
+    "response_at": "2026-09-20T22:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000370",
+    "complaint_id": "CMP-2026-000370",
+    "sent_at": "2026-10-04T13:00:00",
+    "response_at": "2026-10-05T13:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000374",
+    "complaint_id": "CMP-2026-000374",
+    "sent_at": "2026-09-03T01:00:00",
+    "response_at": "2026-09-04T01:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000380",
+    "complaint_id": "CMP-2026-000380",
+    "sent_at": "2026-08-03T05:00:00",
+    "response_at": "2026-08-04T05:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000390",
+    "complaint_id": "CMP-2026-000390",
+    "sent_at": "2026-07-31T05:00:00",
+    "response_at": "2026-08-01T05:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000391",
+    "complaint_id": "CMP-2026-000391",
+    "sent_at": "2026-09-06T12:00:00",
+    "response_at": "2026-09-07T12:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000392",
+    "complaint_id": "CMP-2026-000392",
+    "sent_at": "2026-10-02T23:00:00",
+    "response_at": "2026-10-03T23:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000393",
+    "complaint_id": "CMP-2026-000393",
+    "sent_at": "2026-10-05T00:00:00",
+    "response_at": "2026-10-06T00:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000394",
+    "complaint_id": "CMP-2026-000394",
+    "sent_at": "2026-07-28T11:00:00",
+    "response_at": "2026-07-29T11:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000400",
+    "complaint_id": "CMP-2026-000400",
+    "sent_at": "2026-07-29T01:00:00",
+    "response_at": "2026-07-30T01:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000401",
+    "complaint_id": "CMP-2026-000401",
+    "sent_at": "2026-10-08T14:00:00",
+    "response_at": "2026-10-09T14:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000405",
+    "complaint_id": "CMP-2026-000405",
+    "sent_at": "2026-07-31T02:00:00",
+    "response_at": "2026-08-01T02:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000409",
+    "complaint_id": "CMP-2026-000409",
+    "sent_at": "2026-10-07T10:00:00",
+    "response_at": "2026-10-08T10:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000416",
+    "complaint_id": "CMP-2026-000416",
+    "sent_at": "2026-08-09T21:00:00",
+    "response_at": "2026-08-10T21:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000423",
+    "complaint_id": "CMP-2026-000423",
+    "sent_at": "2026-09-07T17:00:00",
+    "response_at": "2026-09-08T17:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000425",
+    "complaint_id": "CMP-2026-000425",
+    "sent_at": "2026-08-14T07:00:00",
+    "response_at": "2026-08-15T07:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000430",
+    "complaint_id": "CMP-2026-000430",
+    "sent_at": "2026-08-01T16:00:00",
+    "response_at": "2026-08-02T16:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000434",
+    "complaint_id": "CMP-2026-000434",
+    "sent_at": "2026-07-29T07:00:00",
+    "response_at": "2026-07-30T07:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000435",
+    "complaint_id": "CMP-2026-000435",
+    "sent_at": "2026-10-21T12:00:00",
+    "response_at": "2026-10-22T12:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000438",
+    "complaint_id": "CMP-2026-000438",
+    "sent_at": "2026-08-30T03:00:00",
+    "response_at": "2026-08-31T03:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000439",
+    "complaint_id": "CMP-2026-000439",
+    "sent_at": "2026-09-22T22:00:00",
+    "response_at": "2026-09-23T22:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000445",
+    "complaint_id": "CMP-2026-000445",
+    "sent_at": "2026-10-09T14:00:00",
+    "response_at": "2026-10-10T14:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000454",
+    "complaint_id": "CMP-2026-000454",
+    "sent_at": "2026-09-06T14:00:00",
+    "response_at": "2026-09-07T14:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000455",
+    "complaint_id": "CMP-2026-000455",
+    "sent_at": "2026-08-05T12:00:00",
+    "response_at": "2026-08-06T12:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000460",
+    "complaint_id": "CMP-2026-000460",
+    "sent_at": "2026-09-21T06:00:00",
+    "response_at": "2026-09-22T06:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000466",
+    "complaint_id": "CMP-2026-000466",
+    "sent_at": "2026-08-26T17:00:00",
+    "response_at": "2026-08-27T17:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000471",
+    "complaint_id": "CMP-2026-000471",
+    "sent_at": "2026-10-04T04:00:00",
+    "response_at": "2026-10-05T04:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000476",
+    "complaint_id": "CMP-2026-000476",
+    "sent_at": "2026-09-11T15:00:00",
+    "response_at": "2026-09-12T15:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000481",
+    "complaint_id": "CMP-2026-000481",
+    "sent_at": "2026-10-11T00:00:00",
+    "response_at": "2026-10-12T00:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000487",
+    "complaint_id": "CMP-2026-000487",
+    "sent_at": "2026-08-07T20:00:00",
+    "response_at": "2026-08-08T20:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000494",
+    "complaint_id": "CMP-2026-000494",
+    "sent_at": "2026-07-29T02:00:00",
+    "response_at": "2026-07-30T02:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000495",
+    "complaint_id": "CMP-2026-000495",
+    "sent_at": "2026-08-11T02:00:00",
+    "response_at": "2026-08-12T02:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000496",
+    "complaint_id": "CMP-2026-000496",
+    "sent_at": "2026-09-01T10:00:00",
+    "response_at": "2026-09-02T10:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000498",
+    "complaint_id": "CMP-2026-000498",
+    "sent_at": "2026-08-25T18:00:00",
+    "response_at": "2026-08-26T18:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000501",
+    "complaint_id": "CMP-2026-000501",
+    "sent_at": "2026-08-26T09:00:00",
+    "response_at": "2026-08-27T09:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000502",
+    "complaint_id": "CMP-2026-000502",
+    "sent_at": "2026-10-02T02:00:00",
+    "response_at": "2026-10-03T02:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000504",
+    "complaint_id": "CMP-2026-000504",
+    "sent_at": "2026-10-06T05:00:00",
+    "response_at": "2026-10-07T05:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000507",
+    "complaint_id": "CMP-2026-000507",
+    "sent_at": "2026-08-23T07:00:00",
+    "response_at": "2026-08-24T07:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000508",
+    "complaint_id": "CMP-2026-000508",
+    "sent_at": "2026-08-09T01:00:00",
+    "response_at": "2026-08-10T01:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000510",
+    "complaint_id": "CMP-2026-000510",
+    "sent_at": "2026-09-15T09:00:00",
+    "response_at": "2026-09-16T09:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000512",
+    "complaint_id": "CMP-2026-000512",
+    "sent_at": "2026-09-11T23:00:00",
+    "response_at": "2026-09-12T23:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000518",
+    "complaint_id": "CMP-2026-000518",
+    "sent_at": "2026-08-20T01:00:00",
+    "response_at": "2026-08-21T01:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000519",
+    "complaint_id": "CMP-2026-000519",
+    "sent_at": "2026-10-10T21:00:00",
+    "response_at": "2026-10-11T21:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000523",
+    "complaint_id": "CMP-2026-000523",
+    "sent_at": "2026-08-18T23:00:00",
+    "response_at": "2026-08-19T23:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000524",
+    "complaint_id": "CMP-2026-000524",
+    "sent_at": "2026-10-18T11:00:00",
+    "response_at": "2026-10-19T11:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000525",
+    "complaint_id": "CMP-2026-000525",
+    "sent_at": "2026-09-02T19:00:00",
+    "response_at": "2026-09-03T19:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000527",
+    "complaint_id": "CMP-2026-000527",
+    "sent_at": "2026-08-17T12:00:00",
+    "response_at": "2026-08-18T12:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000530",
+    "complaint_id": "CMP-2026-000530",
+    "sent_at": "2026-10-14T17:00:00",
+    "response_at": "2026-10-15T17:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000531",
+    "complaint_id": "CMP-2026-000531",
+    "sent_at": "2026-09-05T02:00:00",
+    "response_at": "2026-09-06T02:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000543",
+    "complaint_id": "CMP-2026-000543",
+    "sent_at": "2026-08-23T00:00:00",
+    "response_at": "2026-08-24T00:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000549",
+    "complaint_id": "CMP-2026-000549",
+    "sent_at": "2026-10-20T21:00:00",
+    "response_at": "2026-10-21T21:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000550",
+    "complaint_id": "CMP-2026-000550",
+    "sent_at": "2026-09-23T19:00:00",
+    "response_at": "2026-09-24T19:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000555",
+    "complaint_id": "CMP-2026-000555",
+    "sent_at": "2026-08-15T01:00:00",
+    "response_at": "2026-08-16T01:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000556",
+    "complaint_id": "CMP-2026-000556",
+    "sent_at": "2026-09-19T22:00:00",
+    "response_at": "2026-09-20T22:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000560",
+    "complaint_id": "CMP-2026-000560",
+    "sent_at": "2026-10-12T04:00:00",
+    "response_at": "2026-10-13T04:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000565",
+    "complaint_id": "CMP-2026-000565",
+    "sent_at": "2026-08-28T04:00:00",
+    "response_at": "2026-08-29T04:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000569",
+    "complaint_id": "CMP-2026-000569",
+    "sent_at": "2026-08-15T01:00:00",
+    "response_at": "2026-08-16T01:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000581",
+    "complaint_id": "CMP-2026-000581",
+    "sent_at": "2026-09-21T06:00:00",
+    "response_at": "2026-09-22T06:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000582",
+    "complaint_id": "CMP-2026-000582",
+    "sent_at": "2026-07-31T15:00:00",
+    "response_at": "2026-08-01T15:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000583",
+    "complaint_id": "CMP-2026-000583",
+    "sent_at": "2026-10-21T17:00:00",
+    "response_at": "2026-10-22T17:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000587",
+    "complaint_id": "CMP-2026-000587",
+    "sent_at": "2026-09-29T23:00:00",
+    "response_at": "2026-09-30T23:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000598",
+    "complaint_id": "CMP-2026-000598",
+    "sent_at": "2026-09-25T18:00:00",
+    "response_at": "2026-09-26T18:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000603",
+    "complaint_id": "CMP-2026-000603",
+    "sent_at": "2026-09-17T20:00:00",
+    "response_at": "2026-09-18T20:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000605",
+    "complaint_id": "CMP-2026-000605",
+    "sent_at": "2026-09-17T12:00:00",
+    "response_at": "2026-09-18T12:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000607",
+    "complaint_id": "CMP-2026-000607",
+    "sent_at": "2026-08-24T01:00:00",
+    "response_at": "2026-08-25T01:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000608",
+    "complaint_id": "CMP-2026-000608",
+    "sent_at": "2026-08-15T07:00:00",
+    "response_at": "2026-08-16T07:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000609",
+    "complaint_id": "CMP-2026-000609",
+    "sent_at": "2026-09-08T02:00:00",
+    "response_at": "2026-09-09T02:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000610",
+    "complaint_id": "CMP-2026-000610",
+    "sent_at": "2026-08-14T02:00:00",
+    "response_at": "2026-08-15T02:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000618",
+    "complaint_id": "CMP-2026-000618",
+    "sent_at": "2026-09-28T11:00:00",
+    "response_at": "2026-09-29T11:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000625",
+    "complaint_id": "CMP-2026-000625",
+    "sent_at": "2026-08-26T21:00:00",
+    "response_at": "2026-08-27T21:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000628",
+    "complaint_id": "CMP-2026-000628",
+    "sent_at": "2026-08-01T03:00:00",
+    "response_at": "2026-08-02T03:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000629",
+    "complaint_id": "CMP-2026-000629",
+    "sent_at": "2026-09-01T21:00:00",
+    "response_at": "2026-09-02T21:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000632",
+    "complaint_id": "CMP-2026-000632",
+    "sent_at": "2026-09-09T08:00:00",
+    "response_at": "2026-09-10T08:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000633",
+    "complaint_id": "CMP-2026-000633",
+    "sent_at": "2026-10-01T17:00:00",
+    "response_at": "2026-10-02T17:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000635",
+    "complaint_id": "CMP-2026-000635",
+    "sent_at": "2026-08-07T13:00:00",
+    "response_at": "2026-08-08T13:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000636",
+    "complaint_id": "CMP-2026-000636",
+    "sent_at": "2026-08-30T17:00:00",
+    "response_at": "2026-08-31T17:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000639",
+    "complaint_id": "CMP-2026-000639",
+    "sent_at": "2026-10-06T17:00:00",
+    "response_at": "2026-10-07T17:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000644",
+    "complaint_id": "CMP-2026-000644",
+    "sent_at": "2026-08-15T17:00:00",
+    "response_at": "2026-08-16T17:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000646",
+    "complaint_id": "CMP-2026-000646",
+    "sent_at": "2026-08-18T02:00:00",
+    "response_at": "2026-08-19T02:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000649",
+    "complaint_id": "CMP-2026-000649",
+    "sent_at": "2026-08-31T17:00:00",
+    "response_at": "2026-09-01T17:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000650",
+    "complaint_id": "CMP-2026-000650",
+    "sent_at": "2026-08-30T00:00:00",
+    "response_at": "2026-08-31T00:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000652",
+    "complaint_id": "CMP-2026-000652",
+    "sent_at": "2026-08-15T17:00:00",
+    "response_at": "2026-08-16T17:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000653",
+    "complaint_id": "CMP-2026-000653",
+    "sent_at": "2026-08-21T16:00:00",
+    "response_at": "2026-08-22T16:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000654",
+    "complaint_id": "CMP-2026-000654",
+    "sent_at": "2026-09-01T02:00:00",
+    "response_at": "2026-09-02T02:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000662",
+    "complaint_id": "CMP-2026-000662",
+    "sent_at": "2026-07-30T21:00:00",
+    "response_at": "2026-07-31T21:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000671",
+    "complaint_id": "CMP-2026-000671",
+    "sent_at": "2026-10-07T03:00:00",
+    "response_at": "2026-10-08T03:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000686",
+    "complaint_id": "CMP-2026-000686",
+    "sent_at": "2026-07-31T14:00:00",
+    "response_at": "2026-08-01T14:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000688",
+    "complaint_id": "CMP-2026-000688",
+    "sent_at": "2026-08-11T23:00:00",
+    "response_at": "2026-08-12T23:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000689",
+    "complaint_id": "CMP-2026-000689",
+    "sent_at": "2026-08-07T02:00:00",
+    "response_at": "2026-08-08T02:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000692",
+    "complaint_id": "CMP-2026-000692",
+    "sent_at": "2026-09-23T02:00:00",
+    "response_at": "2026-09-24T02:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000693",
+    "complaint_id": "CMP-2026-000693",
+    "sent_at": "2026-09-13T00:00:00",
+    "response_at": "2026-09-14T00:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000694",
+    "complaint_id": "CMP-2026-000694",
+    "sent_at": "2026-09-13T14:00:00",
+    "response_at": "2026-09-14T14:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000696",
+    "complaint_id": "CMP-2026-000696",
+    "sent_at": "2026-10-15T20:00:00",
+    "response_at": "2026-10-16T20:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000711",
+    "complaint_id": "CMP-2026-000711",
+    "sent_at": "2026-10-04T13:00:00",
+    "response_at": "2026-10-05T13:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000717",
+    "complaint_id": "CMP-2026-000717",
+    "sent_at": "2026-08-24T01:00:00",
+    "response_at": "2026-08-25T01:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000719",
+    "complaint_id": "CMP-2026-000719",
+    "sent_at": "2026-08-06T18:00:00",
+    "response_at": "2026-08-07T18:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000723",
+    "complaint_id": "CMP-2026-000723",
+    "sent_at": "2026-10-12T02:00:00",
+    "response_at": "2026-10-13T02:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000727",
+    "complaint_id": "CMP-2026-000727",
+    "sent_at": "2026-08-16T08:00:00",
+    "response_at": "2026-08-17T08:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000730",
+    "complaint_id": "CMP-2026-000730",
+    "sent_at": "2026-08-18T13:00:00",
+    "response_at": "2026-08-19T13:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000732",
+    "complaint_id": "CMP-2026-000732",
+    "sent_at": "2026-10-13T09:00:00",
+    "response_at": "2026-10-14T09:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000734",
+    "complaint_id": "CMP-2026-000734",
+    "sent_at": "2026-09-13T06:00:00",
+    "response_at": "2026-09-14T06:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000736",
+    "complaint_id": "CMP-2026-000736",
+    "sent_at": "2026-10-19T13:00:00",
+    "response_at": "2026-10-20T13:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000740",
+    "complaint_id": "CMP-2026-000740",
+    "sent_at": "2026-10-17T21:00:00",
+    "response_at": "2026-10-18T21:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000741",
+    "complaint_id": "CMP-2026-000741",
+    "sent_at": "2026-09-23T14:00:00",
+    "response_at": "2026-09-24T14:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000743",
+    "complaint_id": "CMP-2026-000743",
+    "sent_at": "2026-09-10T16:00:00",
+    "response_at": "2026-09-11T16:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000744",
+    "complaint_id": "CMP-2026-000744",
+    "sent_at": "2026-08-06T08:00:00",
+    "response_at": "2026-08-07T08:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000745",
+    "complaint_id": "CMP-2026-000745",
+    "sent_at": "2026-07-26T18:00:00",
+    "response_at": "2026-07-27T18:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000748",
+    "complaint_id": "CMP-2026-000748",
+    "sent_at": "2026-09-22T10:00:00",
+    "response_at": "2026-09-23T10:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000751",
+    "complaint_id": "CMP-2026-000751",
+    "sent_at": "2026-09-24T04:00:00",
+    "response_at": "2026-09-25T04:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000753",
+    "complaint_id": "CMP-2026-000753",
+    "sent_at": "2026-09-15T12:00:00",
+    "response_at": "2026-09-16T12:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000755",
+    "complaint_id": "CMP-2026-000755",
+    "sent_at": "2026-09-26T19:00:00",
+    "response_at": "2026-09-27T19:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000756",
+    "complaint_id": "CMP-2026-000756",
+    "sent_at": "2026-10-11T15:00:00",
+    "response_at": "2026-10-12T15:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000757",
+    "complaint_id": "CMP-2026-000757",
+    "sent_at": "2026-09-15T03:00:00",
+    "response_at": "2026-09-16T03:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000766",
+    "complaint_id": "CMP-2026-000766",
+    "sent_at": "2026-08-13T04:00:00",
+    "response_at": "2026-08-14T04:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000768",
+    "complaint_id": "CMP-2026-000768",
+    "sent_at": "2026-10-16T14:00:00",
+    "response_at": "2026-10-17T14:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000774",
+    "complaint_id": "CMP-2026-000774",
+    "sent_at": "2026-10-11T14:00:00",
+    "response_at": "2026-10-12T14:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000779",
+    "complaint_id": "CMP-2026-000779",
+    "sent_at": "2026-08-13T14:00:00",
+    "response_at": "2026-08-14T14:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000782",
+    "complaint_id": "CMP-2026-000782",
+    "sent_at": "2026-09-12T00:00:00",
+    "response_at": "2026-09-13T00:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000784",
+    "complaint_id": "CMP-2026-000784",
+    "sent_at": "2026-10-06T07:00:00",
+    "response_at": "2026-10-07T07:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000786",
+    "complaint_id": "CMP-2026-000786",
+    "sent_at": "2026-09-03T05:00:00",
+    "response_at": "2026-09-04T05:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000787",
+    "complaint_id": "CMP-2026-000787",
+    "sent_at": "2026-09-05T05:00:00",
+    "response_at": "2026-09-06T05:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000793",
+    "complaint_id": "CMP-2026-000793",
+    "sent_at": "2026-08-12T04:00:00",
+    "response_at": "2026-08-13T04:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000795",
+    "complaint_id": "CMP-2026-000795",
+    "sent_at": "2026-08-26T11:00:00",
+    "response_at": "2026-08-27T11:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000797",
+    "complaint_id": "CMP-2026-000797",
+    "sent_at": "2026-10-22T19:00:00",
+    "response_at": "2026-10-23T19:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000799",
+    "complaint_id": "CMP-2026-000799",
+    "sent_at": "2026-10-10T17:00:00",
+    "response_at": "2026-10-11T17:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000801",
+    "complaint_id": "CMP-2026-000801",
+    "sent_at": "2026-08-04T07:00:00",
+    "response_at": "2026-08-05T07:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000802",
+    "complaint_id": "CMP-2026-000802",
+    "sent_at": "2026-08-04T07:00:00",
+    "response_at": "2026-08-05T07:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000805",
+    "complaint_id": "CMP-2026-000805",
+    "sent_at": "2026-09-05T10:00:00",
+    "response_at": "2026-09-06T10:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000806",
+    "complaint_id": "CMP-2026-000806",
+    "sent_at": "2026-08-05T05:00:00",
+    "response_at": "2026-08-06T05:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000810",
+    "complaint_id": "CMP-2026-000810",
+    "sent_at": "2026-08-29T23:00:00",
+    "response_at": "2026-08-30T23:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000814",
+    "complaint_id": "CMP-2026-000814",
+    "sent_at": "2026-09-02T16:00:00",
+    "response_at": "2026-09-03T16:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000815",
+    "complaint_id": "CMP-2026-000815",
+    "sent_at": "2026-09-23T14:00:00",
+    "response_at": "2026-09-24T14:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000830",
+    "complaint_id": "CMP-2026-000830",
+    "sent_at": "2026-09-26T12:00:00",
+    "response_at": "2026-09-27T12:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000833",
+    "complaint_id": "CMP-2026-000833",
+    "sent_at": "2026-09-25T05:00:00",
+    "response_at": "2026-09-26T05:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000834",
+    "complaint_id": "CMP-2026-000834",
+    "sent_at": "2026-08-28T04:00:00",
+    "response_at": "2026-08-29T04:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000836",
+    "complaint_id": "CMP-2026-000836",
+    "sent_at": "2026-08-10T22:00:00",
+    "response_at": "2026-08-11T22:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000838",
+    "complaint_id": "CMP-2026-000838",
+    "sent_at": "2026-09-12T07:00:00",
+    "response_at": "2026-09-13T07:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000841",
+    "complaint_id": "CMP-2026-000841",
+    "sent_at": "2026-08-11T08:00:00",
+    "response_at": "2026-08-12T08:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000847",
+    "complaint_id": "CMP-2026-000847",
+    "sent_at": "2026-08-31T01:00:00",
+    "response_at": "2026-09-01T01:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000850",
+    "complaint_id": "CMP-2026-000850",
+    "sent_at": "2026-08-26T15:00:00",
+    "response_at": "2026-08-27T15:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000853",
+    "complaint_id": "CMP-2026-000853",
+    "sent_at": "2026-08-26T19:00:00",
+    "response_at": "2026-08-27T19:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000855",
+    "complaint_id": "CMP-2026-000855",
+    "sent_at": "2026-09-12T02:00:00",
+    "response_at": "2026-09-13T02:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000857",
+    "complaint_id": "CMP-2026-000857",
+    "sent_at": "2026-09-04T15:00:00",
+    "response_at": "2026-09-05T15:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000862",
+    "complaint_id": "CMP-2026-000862",
+    "sent_at": "2026-10-01T12:00:00",
+    "response_at": "2026-10-02T12:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000863",
+    "complaint_id": "CMP-2026-000863",
+    "sent_at": "2026-07-31T22:00:00",
+    "response_at": "2026-08-01T22:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000869",
+    "complaint_id": "CMP-2026-000869",
+    "sent_at": "2026-10-04T02:00:00",
+    "response_at": "2026-10-05T02:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000874",
+    "complaint_id": "CMP-2026-000874",
+    "sent_at": "2026-09-09T15:00:00",
+    "response_at": "2026-09-10T15:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000878",
+    "complaint_id": "CMP-2026-000878",
+    "sent_at": "2026-08-01T07:00:00",
+    "response_at": "2026-08-02T07:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000892",
+    "complaint_id": "CMP-2026-000892",
+    "sent_at": "2026-09-05T15:00:00",
+    "response_at": "2026-09-06T15:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000894",
+    "complaint_id": "CMP-2026-000894",
+    "sent_at": "2026-08-16T17:00:00",
+    "response_at": "2026-08-17T17:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000895",
+    "complaint_id": "CMP-2026-000895",
+    "sent_at": "2026-10-04T17:00:00",
+    "response_at": "2026-10-05T17:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000904",
+    "complaint_id": "CMP-2026-000904",
+    "sent_at": "2026-09-07T00:00:00",
+    "response_at": "2026-09-08T00:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000905",
+    "complaint_id": "CMP-2026-000905",
+    "sent_at": "2026-10-21T11:00:00",
+    "response_at": "2026-10-22T11:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000909",
+    "complaint_id": "CMP-2026-000909",
+    "sent_at": "2026-09-22T03:00:00",
+    "response_at": "2026-09-23T03:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000910",
+    "complaint_id": "CMP-2026-000910",
+    "sent_at": "2026-10-06T00:00:00",
+    "response_at": "2026-10-07T00:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000913",
+    "complaint_id": "CMP-2026-000913",
+    "sent_at": "2026-08-01T19:00:00",
+    "response_at": "2026-08-02T19:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000923",
+    "complaint_id": "CMP-2026-000923",
+    "sent_at": "2026-09-20T12:00:00",
+    "response_at": "2026-09-21T12:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000924",
+    "complaint_id": "CMP-2026-000924",
+    "sent_at": "2026-08-03T15:00:00",
+    "response_at": "2026-08-04T15:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000926",
+    "complaint_id": "CMP-2026-000926",
+    "sent_at": "2026-09-09T21:00:00",
+    "response_at": "2026-09-10T21:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000938",
+    "complaint_id": "CMP-2026-000938",
+    "sent_at": "2026-07-26T22:00:00",
+    "response_at": "2026-07-27T22:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000940",
+    "complaint_id": "CMP-2026-000940",
+    "sent_at": "2026-10-06T18:00:00",
+    "response_at": "2026-10-07T18:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000947",
+    "complaint_id": "CMP-2026-000947",
+    "sent_at": "2026-10-17T15:00:00",
+    "response_at": "2026-10-18T15:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000952",
+    "complaint_id": "CMP-2026-000952",
+    "sent_at": "2026-10-12T06:00:00",
+    "response_at": "2026-10-13T06:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000954",
+    "complaint_id": "CMP-2026-000954",
+    "sent_at": "2026-10-08T11:00:00",
+    "response_at": "2026-10-09T11:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000956",
+    "complaint_id": "CMP-2026-000956",
+    "sent_at": "2026-08-14T10:00:00",
+    "response_at": "2026-08-15T10:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000957",
+    "complaint_id": "CMP-2026-000957",
+    "sent_at": "2026-09-27T01:00:00",
+    "response_at": "2026-09-28T01:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000965",
+    "complaint_id": "CMP-2026-000965",
+    "sent_at": "2026-09-11T14:00:00",
+    "response_at": "2026-09-12T14:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000966",
+    "complaint_id": "CMP-2026-000966",
+    "sent_at": "2026-10-19T08:00:00",
+    "response_at": "2026-10-20T08:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000968",
+    "complaint_id": "CMP-2026-000968",
+    "sent_at": "2026-08-04T14:00:00",
+    "response_at": "2026-08-05T14:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000969",
+    "complaint_id": "CMP-2026-000969",
+    "sent_at": "2026-10-01T13:00:00",
+    "response_at": "2026-10-02T13:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000975",
+    "complaint_id": "CMP-2026-000975",
+    "sent_at": "2026-07-28T23:00:00",
+    "response_at": "2026-07-29T23:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000976",
+    "complaint_id": "CMP-2026-000976",
+    "sent_at": "2026-09-21T14:00:00",
+    "response_at": "2026-09-22T14:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000979",
+    "complaint_id": "CMP-2026-000979",
+    "sent_at": "2026-10-02T23:00:00",
+    "response_at": "2026-10-03T23:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000982",
+    "complaint_id": "CMP-2026-000982",
+    "sent_at": "2026-08-20T11:00:00",
+    "response_at": "2026-08-21T11:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000984",
+    "complaint_id": "CMP-2026-000984",
+    "sent_at": "2026-10-09T02:00:00",
+    "response_at": "2026-10-10T02:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000988",
+    "complaint_id": "CMP-2026-000988",
+    "sent_at": "2026-08-10T17:00:00",
+    "response_at": "2026-08-11T17:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000993",
+    "complaint_id": "CMP-2026-000993",
+    "sent_at": "2026-07-31T22:00:00",
+    "response_at": "2026-08-01T22:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000997",
+    "complaint_id": "CMP-2026-000997",
+    "sent_at": "2026-09-26T04:00:00",
+    "response_at": "2026-09-27T04:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000998",
+    "complaint_id": "CMP-2026-000998",
+    "sent_at": "2026-08-10T21:00:00",
+    "response_at": "2026-08-11T21:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000999",
+    "complaint_id": "CMP-2026-000999",
+    "sent_at": "2026-09-01T09:00:00",
+    "response_at": "2026-09-02T09:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001002",
+    "complaint_id": "CMP-2026-001002",
+    "sent_at": "2026-09-27T03:00:00",
+    "response_at": "2026-09-28T03:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001003",
+    "complaint_id": "CMP-2026-001003",
+    "sent_at": "2026-08-09T04:00:00",
+    "response_at": "2026-08-10T04:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001005",
+    "complaint_id": "CMP-2026-001005",
+    "sent_at": "2026-08-16T21:00:00",
+    "response_at": "2026-08-17T21:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001006",
+    "complaint_id": "CMP-2026-001006",
+    "sent_at": "2026-07-31T11:00:00",
+    "response_at": "2026-08-01T11:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001008",
+    "complaint_id": "CMP-2026-001008",
+    "sent_at": "2026-07-29T00:00:00",
+    "response_at": "2026-07-30T00:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001010",
+    "complaint_id": "CMP-2026-001010",
+    "sent_at": "2026-07-28T21:00:00",
+    "response_at": "2026-07-29T21:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001011",
+    "complaint_id": "CMP-2026-001011",
+    "sent_at": "2026-10-19T15:00:00",
+    "response_at": "2026-10-20T15:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001012",
+    "complaint_id": "CMP-2026-001012",
+    "sent_at": "2026-08-09T12:00:00",
+    "response_at": "2026-08-10T12:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001013",
+    "complaint_id": "CMP-2026-001013",
+    "sent_at": "2026-09-30T02:00:00",
+    "response_at": "2026-10-01T02:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001014",
+    "complaint_id": "CMP-2026-001014",
+    "sent_at": "2026-08-21T09:00:00",
+    "response_at": "2026-08-22T09:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001017",
+    "complaint_id": "CMP-2026-001017",
+    "sent_at": "2026-08-02T21:00:00",
+    "response_at": "2026-08-03T21:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001019",
+    "complaint_id": "CMP-2026-001019",
+    "sent_at": "2026-10-14T03:00:00",
+    "response_at": "2026-10-15T03:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001028",
+    "complaint_id": "CMP-2026-001028",
+    "sent_at": "2026-08-22T15:00:00",
+    "response_at": "2026-08-23T15:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001034",
+    "complaint_id": "CMP-2026-001034",
+    "sent_at": "2026-09-05T12:00:00",
+    "response_at": "2026-09-06T12:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001035",
+    "complaint_id": "CMP-2026-001035",
+    "sent_at": "2026-08-16T03:00:00",
+    "response_at": "2026-08-17T03:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001043",
+    "complaint_id": "CMP-2026-001043",
+    "sent_at": "2026-10-13T16:00:00",
+    "response_at": "2026-10-14T16:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001044",
+    "complaint_id": "CMP-2026-001044",
+    "sent_at": "2026-08-05T13:00:00",
+    "response_at": "2026-08-06T13:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001047",
+    "complaint_id": "CMP-2026-001047",
+    "sent_at": "2026-09-25T23:00:00",
+    "response_at": "2026-09-26T23:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001060",
+    "complaint_id": "CMP-2026-001060",
+    "sent_at": "2026-10-11T20:00:00",
+    "response_at": "2026-10-12T20:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001062",
+    "complaint_id": "CMP-2026-001062",
+    "sent_at": "2026-09-23T00:00:00",
+    "response_at": "2026-09-24T00:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001066",
+    "complaint_id": "CMP-2026-001066",
+    "sent_at": "2026-08-05T22:00:00",
+    "response_at": "2026-08-06T22:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001068",
+    "complaint_id": "CMP-2026-001068",
+    "sent_at": "2026-09-08T06:00:00",
+    "response_at": "2026-09-09T06:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001081",
+    "complaint_id": "CMP-2026-001081",
+    "sent_at": "2026-09-27T12:00:00",
+    "response_at": "2026-09-28T12:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001084",
+    "complaint_id": "CMP-2026-001084",
+    "sent_at": "2026-09-19T22:00:00",
+    "response_at": "2026-09-20T22:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001085",
+    "complaint_id": "CMP-2026-001085",
+    "sent_at": "2026-09-10T06:00:00",
+    "response_at": "2026-09-11T06:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001090",
+    "complaint_id": "CMP-2026-001090",
+    "sent_at": "2026-07-31T08:00:00",
+    "response_at": "2026-08-01T08:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001093",
+    "complaint_id": "CMP-2026-001093",
+    "sent_at": "2026-08-17T09:00:00",
+    "response_at": "2026-08-18T09:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001096",
+    "complaint_id": "CMP-2026-001096",
+    "sent_at": "2026-08-12T02:00:00",
+    "response_at": "2026-08-13T02:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001098",
+    "complaint_id": "CMP-2026-001098",
+    "sent_at": "2026-08-29T22:00:00",
+    "response_at": "2026-08-30T22:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001100",
+    "complaint_id": "CMP-2026-001100",
+    "sent_at": "2026-10-11T16:00:00",
+    "response_at": "2026-10-12T16:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001107",
+    "complaint_id": "CMP-2026-001107",
+    "sent_at": "2026-10-10T00:00:00",
+    "response_at": "2026-10-11T00:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001114",
+    "complaint_id": "CMP-2026-001114",
+    "sent_at": "2026-10-03T06:00:00",
+    "response_at": "2026-10-04T06:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001115",
+    "complaint_id": "CMP-2026-001115",
+    "sent_at": "2026-09-08T02:00:00",
+    "response_at": "2026-09-09T02:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001122",
+    "complaint_id": "CMP-2026-001122",
+    "sent_at": "2026-09-21T17:00:00",
+    "response_at": "2026-09-22T17:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001123",
+    "complaint_id": "CMP-2026-001123",
+    "sent_at": "2026-07-29T05:00:00",
+    "response_at": "2026-07-30T05:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001125",
+    "complaint_id": "CMP-2026-001125",
+    "sent_at": "2026-07-26T03:00:00",
+    "response_at": "2026-07-27T03:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001128",
+    "complaint_id": "CMP-2026-001128",
+    "sent_at": "2026-08-11T19:00:00",
+    "response_at": "2026-08-12T19:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001141",
+    "complaint_id": "CMP-2026-001141",
+    "sent_at": "2026-07-30T13:00:00",
+    "response_at": "2026-07-31T13:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001142",
+    "complaint_id": "CMP-2026-001142",
+    "sent_at": "2026-09-13T11:00:00",
+    "response_at": "2026-09-14T11:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001146",
+    "complaint_id": "CMP-2026-001146",
+    "sent_at": "2026-10-03T21:00:00",
+    "response_at": "2026-10-04T21:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001153",
+    "complaint_id": "CMP-2026-001153",
+    "sent_at": "2026-07-31T16:00:00",
+    "response_at": "2026-08-01T16:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001170",
+    "complaint_id": "CMP-2026-001170",
+    "sent_at": "2026-08-27T06:00:00",
+    "response_at": "2026-08-28T06:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001174",
+    "complaint_id": "CMP-2026-001174",
+    "sent_at": "2026-10-08T07:00:00",
+    "response_at": "2026-10-09T07:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001177",
+    "complaint_id": "CMP-2026-001177",
+    "sent_at": "2026-08-16T05:00:00",
+    "response_at": "2026-08-17T05:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001181",
+    "complaint_id": "CMP-2026-001181",
+    "sent_at": "2026-07-26T13:00:00",
+    "response_at": "2026-07-27T13:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001182",
+    "complaint_id": "CMP-2026-001182",
+    "sent_at": "2026-09-07T18:00:00",
+    "response_at": "2026-09-08T18:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001183",
+    "complaint_id": "CMP-2026-001183",
+    "sent_at": "2026-08-07T19:00:00",
+    "response_at": "2026-08-08T19:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001184",
+    "complaint_id": "CMP-2026-001184",
+    "sent_at": "2026-09-27T10:00:00",
+    "response_at": "2026-09-28T10:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001187",
+    "complaint_id": "CMP-2026-001187",
+    "sent_at": "2026-08-16T07:00:00",
+    "response_at": "2026-08-17T07:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001188",
+    "complaint_id": "CMP-2026-001188",
+    "sent_at": "2026-09-27T13:00:00",
+    "response_at": "2026-09-28T13:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001191",
+    "complaint_id": "CMP-2026-001191",
+    "sent_at": "2026-09-14T07:00:00",
+    "response_at": "2026-09-15T07:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001194",
+    "complaint_id": "CMP-2026-001194",
+    "sent_at": "2026-07-28T10:00:00",
+    "response_at": "2026-07-29T10:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001199",
+    "complaint_id": "CMP-2026-001199",
+    "sent_at": "2026-08-17T08:00:00",
+    "response_at": "2026-08-18T08:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001201",
+    "complaint_id": "CMP-2026-001201",
+    "sent_at": "2026-08-30T15:00:00",
+    "response_at": "2026-08-31T15:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001205",
+    "complaint_id": "CMP-2026-001205",
+    "sent_at": "2026-08-19T19:00:00",
+    "response_at": "2026-08-20T19:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001206",
+    "complaint_id": "CMP-2026-001206",
+    "sent_at": "2026-10-24T23:00:00",
+    "response_at": "2026-10-25T23:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001208",
+    "complaint_id": "CMP-2026-001208",
+    "sent_at": "2026-07-31T20:00:00",
+    "response_at": "2026-08-01T20:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001224",
+    "complaint_id": "CMP-2026-001224",
+    "sent_at": "2026-09-19T17:00:00",
+    "response_at": "2026-09-20T17:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001230",
+    "complaint_id": "CMP-2026-001230",
+    "sent_at": "2026-08-05T04:00:00",
+    "response_at": "2026-08-06T04:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001233",
+    "complaint_id": "CMP-2026-001233",
+    "sent_at": "2026-09-03T12:00:00",
+    "response_at": "2026-09-04T12:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001236",
+    "complaint_id": "CMP-2026-001236",
+    "sent_at": "2026-08-27T01:00:00",
+    "response_at": "2026-08-28T01:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001239",
+    "complaint_id": "CMP-2026-001239",
+    "sent_at": "2026-08-25T23:00:00",
+    "response_at": "2026-08-26T23:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001241",
+    "complaint_id": "CMP-2026-001241",
+    "sent_at": "2026-08-02T20:00:00",
+    "response_at": "2026-08-03T20:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001244",
+    "complaint_id": "CMP-2026-001244",
+    "sent_at": "2026-08-04T23:00:00",
+    "response_at": "2026-08-05T23:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001258",
+    "complaint_id": "CMP-2026-001258",
+    "sent_at": "2026-09-22T20:00:00",
+    "response_at": "2026-09-23T20:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001265",
+    "complaint_id": "CMP-2026-001265",
+    "sent_at": "2026-08-27T12:00:00",
+    "response_at": "2026-08-28T12:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001269",
+    "complaint_id": "CMP-2026-001269",
+    "sent_at": "2026-09-15T12:00:00",
+    "response_at": "2026-09-16T12:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001270",
+    "complaint_id": "CMP-2026-001270",
+    "sent_at": "2026-08-31T02:00:00",
+    "response_at": "2026-09-01T02:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001272",
+    "complaint_id": "CMP-2026-001272",
+    "sent_at": "2026-08-16T10:00:00",
+    "response_at": "2026-08-17T10:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001273",
+    "complaint_id": "CMP-2026-001273",
+    "sent_at": "2026-10-06T01:00:00",
+    "response_at": "2026-10-07T01:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001274",
+    "complaint_id": "CMP-2026-001274",
+    "sent_at": "2026-09-25T04:00:00",
+    "response_at": "2026-09-26T04:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001278",
+    "complaint_id": "CMP-2026-001278",
+    "sent_at": "2026-08-21T08:00:00",
+    "response_at": "2026-08-22T08:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001281",
+    "complaint_id": "CMP-2026-001281",
+    "sent_at": "2026-10-12T16:00:00",
+    "response_at": "2026-10-13T16:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001288",
+    "complaint_id": "CMP-2026-001288",
+    "sent_at": "2026-08-08T18:00:00",
+    "response_at": "2026-08-09T18:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001290",
+    "complaint_id": "CMP-2026-001290",
+    "sent_at": "2026-09-08T07:00:00",
+    "response_at": "2026-09-09T07:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001296",
+    "complaint_id": "CMP-2026-001296",
+    "sent_at": "2026-10-14T02:00:00",
+    "response_at": "2026-10-15T02:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001299",
+    "complaint_id": "CMP-2026-001299",
+    "sent_at": "2026-07-25T22:00:00",
+    "response_at": "2026-07-26T22:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001306",
+    "complaint_id": "CMP-2026-001306",
+    "sent_at": "2026-10-18T22:00:00",
+    "response_at": "2026-10-19T22:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001324",
+    "complaint_id": "CMP-2026-001324",
+    "sent_at": "2026-10-07T17:00:00",
+    "response_at": "2026-10-08T17:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001336",
+    "complaint_id": "CMP-2026-001336",
+    "sent_at": "2026-10-06T15:00:00",
+    "response_at": "2026-10-07T15:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001337",
+    "complaint_id": "CMP-2026-001337",
+    "sent_at": "2026-08-04T20:00:00",
+    "response_at": "2026-08-05T20:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001341",
+    "complaint_id": "CMP-2026-001341",
+    "sent_at": "2026-07-28T15:00:00",
+    "response_at": "2026-07-29T15:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001345",
+    "complaint_id": "CMP-2026-001345",
+    "sent_at": "2026-09-06T21:00:00",
+    "response_at": "2026-09-07T21:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001347",
+    "complaint_id": "CMP-2026-001347",
+    "sent_at": "2026-09-16T21:00:00",
+    "response_at": "2026-09-17T21:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001349",
+    "complaint_id": "CMP-2026-001349",
+    "sent_at": "2026-07-27T17:00:00",
+    "response_at": "2026-07-28T17:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001351",
+    "complaint_id": "CMP-2026-001351",
+    "sent_at": "2026-09-09T06:00:00",
+    "response_at": "2026-09-10T06:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001353",
+    "complaint_id": "CMP-2026-001353",
+    "sent_at": "2026-10-08T20:00:00",
+    "response_at": "2026-10-09T20:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001357",
+    "complaint_id": "CMP-2026-001357",
+    "sent_at": "2026-10-02T20:00:00",
+    "response_at": "2026-10-03T20:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001359",
+    "complaint_id": "CMP-2026-001359",
+    "sent_at": "2026-09-23T13:00:00",
+    "response_at": "2026-09-24T13:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001362",
+    "complaint_id": "CMP-2026-001362",
+    "sent_at": "2026-08-26T14:00:00",
+    "response_at": "2026-08-27T14:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001363",
+    "complaint_id": "CMP-2026-001363",
+    "sent_at": "2026-09-30T11:00:00",
+    "response_at": "2026-10-01T11:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001373",
+    "complaint_id": "CMP-2026-001373",
+    "sent_at": "2026-07-30T22:00:00",
+    "response_at": "2026-07-31T22:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001376",
+    "complaint_id": "CMP-2026-001376",
+    "sent_at": "2026-09-14T04:00:00",
+    "response_at": "2026-09-15T04:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001379",
+    "complaint_id": "CMP-2026-001379",
+    "sent_at": "2026-08-16T14:00:00",
+    "response_at": "2026-08-17T14:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001383",
+    "complaint_id": "CMP-2026-001383",
+    "sent_at": "2026-08-07T17:00:00",
+    "response_at": "2026-08-08T17:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001384",
+    "complaint_id": "CMP-2026-001384",
+    "sent_at": "2026-10-08T14:00:00",
+    "response_at": "2026-10-09T14:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001385",
+    "complaint_id": "CMP-2026-001385",
+    "sent_at": "2026-10-12T03:00:00",
+    "response_at": "2026-10-13T03:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001388",
+    "complaint_id": "CMP-2026-001388",
+    "sent_at": "2026-08-01T07:00:00",
+    "response_at": "2026-08-02T07:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001391",
+    "complaint_id": "CMP-2026-001391",
+    "sent_at": "2026-09-15T00:00:00",
+    "response_at": "2026-09-16T00:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001400",
+    "complaint_id": "CMP-2026-001400",
+    "sent_at": "2026-08-18T09:00:00",
+    "response_at": "2026-08-19T09:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001411",
+    "complaint_id": "CMP-2026-001411",
+    "sent_at": "2026-08-01T12:00:00",
+    "response_at": "2026-08-02T12:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001417",
+    "complaint_id": "CMP-2026-001417",
+    "sent_at": "2026-09-15T19:00:00",
+    "response_at": "2026-09-16T19:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001418",
+    "complaint_id": "CMP-2026-001418",
+    "sent_at": "2026-09-20T16:00:00",
+    "response_at": "2026-09-21T16:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001419",
+    "complaint_id": "CMP-2026-001419",
+    "sent_at": "2026-08-01T09:00:00",
+    "response_at": "2026-08-02T09:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001425",
+    "complaint_id": "CMP-2026-001425",
+    "sent_at": "2026-07-31T18:00:00",
+    "response_at": "2026-08-01T18:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001430",
+    "complaint_id": "CMP-2026-001430",
+    "sent_at": "2026-08-14T06:00:00",
+    "response_at": "2026-08-15T06:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001432",
+    "complaint_id": "CMP-2026-001432",
+    "sent_at": "2026-10-03T00:00:00",
+    "response_at": "2026-10-04T00:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001436",
+    "complaint_id": "CMP-2026-001436",
+    "sent_at": "2026-10-01T16:00:00",
+    "response_at": "2026-10-02T16:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001437",
+    "complaint_id": "CMP-2026-001437",
+    "sent_at": "2026-09-28T22:00:00",
+    "response_at": "2026-09-29T22:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001441",
+    "complaint_id": "CMP-2026-001441",
+    "sent_at": "2026-10-20T06:00:00",
+    "response_at": "2026-10-21T06:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001455",
+    "complaint_id": "CMP-2026-001455",
+    "sent_at": "2026-08-03T22:00:00",
+    "response_at": "2026-08-04T22:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001457",
+    "complaint_id": "CMP-2026-001457",
+    "sent_at": "2026-08-01T03:00:00",
+    "response_at": "2026-08-02T03:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001458",
+    "complaint_id": "CMP-2026-001458",
+    "sent_at": "2026-09-15T17:00:00",
+    "response_at": "2026-09-16T17:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001465",
+    "complaint_id": "CMP-2026-001465",
+    "sent_at": "2026-10-20T15:00:00",
+    "response_at": "2026-10-21T15:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001470",
+    "complaint_id": "CMP-2026-001470",
+    "sent_at": "2026-09-28T06:00:00",
+    "response_at": "2026-09-29T06:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001471",
+    "complaint_id": "CMP-2026-001471",
+    "sent_at": "2026-10-21T05:00:00",
+    "response_at": "2026-10-22T05:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001484",
+    "complaint_id": "CMP-2026-001484",
+    "sent_at": "2026-08-19T04:00:00",
+    "response_at": "2026-08-20T04:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001485",
+    "complaint_id": "CMP-2026-001485",
+    "sent_at": "2026-08-21T18:00:00",
+    "response_at": "2026-08-22T18:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001488",
+    "complaint_id": "CMP-2026-001488",
+    "sent_at": "2026-08-06T09:00:00",
+    "response_at": "2026-08-07T09:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001490",
+    "complaint_id": "CMP-2026-001490",
+    "sent_at": "2026-10-04T04:00:00",
+    "response_at": "2026-10-05T04:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001493",
+    "complaint_id": "CMP-2026-001493",
+    "sent_at": "2026-09-12T05:00:00",
+    "response_at": "2026-09-13T05:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001494",
+    "complaint_id": "CMP-2026-001494",
+    "sent_at": "2026-08-30T20:00:00",
+    "response_at": "2026-08-31T20:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001495",
+    "complaint_id": "CMP-2026-001495",
+    "sent_at": "2026-08-22T16:00:00",
+    "response_at": "2026-08-23T16:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001502",
+    "complaint_id": "CMP-2026-001502",
+    "sent_at": "2026-09-11T17:00:00",
+    "response_at": "2026-09-12T17:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001503",
+    "complaint_id": "CMP-2026-001503",
+    "sent_at": "2026-09-04T17:00:00",
+    "response_at": "2026-09-05T17:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001504",
+    "complaint_id": "CMP-2026-001504",
+    "sent_at": "2026-07-27T09:00:00",
+    "response_at": "2026-07-28T09:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001505",
+    "complaint_id": "CMP-2026-001505",
+    "sent_at": "2026-08-04T23:00:00",
+    "response_at": "2026-08-05T23:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001507",
+    "complaint_id": "CMP-2026-001507",
+    "sent_at": "2026-10-13T03:00:00",
+    "response_at": "2026-10-14T03:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001511",
+    "complaint_id": "CMP-2026-001511",
+    "sent_at": "2026-09-09T21:00:00",
+    "response_at": "2026-09-10T21:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001518",
+    "complaint_id": "CMP-2026-001518",
+    "sent_at": "2026-10-07T14:00:00",
+    "response_at": "2026-10-08T14:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001519",
+    "complaint_id": "CMP-2026-001519",
+    "sent_at": "2026-09-12T15:00:00",
+    "response_at": "2026-09-13T15:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001521",
+    "complaint_id": "CMP-2026-001521",
+    "sent_at": "2026-08-06T02:00:00",
+    "response_at": "2026-08-07T02:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001523",
+    "complaint_id": "CMP-2026-001523",
+    "sent_at": "2026-09-17T11:00:00",
+    "response_at": "2026-09-18T11:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001526",
+    "complaint_id": "CMP-2026-001526",
+    "sent_at": "2026-09-06T08:00:00",
+    "response_at": "2026-09-07T08:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001531",
+    "complaint_id": "CMP-2026-001531",
+    "sent_at": "2026-09-15T15:00:00",
+    "response_at": "2026-09-16T15:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001543",
+    "complaint_id": "CMP-2026-001543",
+    "sent_at": "2026-08-02T07:00:00",
+    "response_at": "2026-08-03T07:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001546",
+    "complaint_id": "CMP-2026-001546",
+    "sent_at": "2026-09-12T15:00:00",
+    "response_at": "2026-09-13T15:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001555",
+    "complaint_id": "CMP-2026-001555",
+    "sent_at": "2026-10-23T16:00:00",
+    "response_at": "2026-10-24T16:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001556",
+    "complaint_id": "CMP-2026-001556",
+    "sent_at": "2026-08-22T15:00:00",
+    "response_at": "2026-08-23T15:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001559",
+    "complaint_id": "CMP-2026-001559",
+    "sent_at": "2026-09-02T07:00:00",
+    "response_at": "2026-09-03T07:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001563",
+    "complaint_id": "CMP-2026-001563",
+    "sent_at": "2026-09-25T06:00:00",
+    "response_at": "2026-09-26T06:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001569",
+    "complaint_id": "CMP-2026-001569",
+    "sent_at": "2026-10-16T09:00:00",
+    "response_at": "2026-10-17T09:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001573",
+    "complaint_id": "CMP-2026-001573",
+    "sent_at": "2026-09-16T15:00:00",
+    "response_at": "2026-09-17T15:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001575",
+    "complaint_id": "CMP-2026-001575",
+    "sent_at": "2026-10-20T10:00:00",
+    "response_at": "2026-10-21T10:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001582",
+    "complaint_id": "CMP-2026-001582",
+    "sent_at": "2026-09-02T12:00:00",
+    "response_at": "2026-09-03T12:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001587",
+    "complaint_id": "CMP-2026-001587",
+    "sent_at": "2026-09-13T00:00:00",
+    "response_at": "2026-09-14T00:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001603",
+    "complaint_id": "CMP-2026-001603",
+    "sent_at": "2026-08-12T11:00:00",
+    "response_at": "2026-08-13T11:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001605",
+    "complaint_id": "CMP-2026-001605",
+    "sent_at": "2026-08-18T15:00:00",
+    "response_at": "2026-08-19T15:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001606",
+    "complaint_id": "CMP-2026-001606",
+    "sent_at": "2026-08-22T16:00:00",
+    "response_at": "2026-08-23T16:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001610",
+    "complaint_id": "CMP-2026-001610",
+    "sent_at": "2026-07-31T13:00:00",
+    "response_at": "2026-08-01T13:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001612",
+    "complaint_id": "CMP-2026-001612",
+    "sent_at": "2026-09-30T22:00:00",
+    "response_at": "2026-10-01T22:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001616",
+    "complaint_id": "CMP-2026-001616",
+    "sent_at": "2026-07-29T15:00:00",
+    "response_at": "2026-07-30T15:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001618",
+    "complaint_id": "CMP-2026-001618",
+    "sent_at": "2026-08-09T00:00:00",
+    "response_at": "2026-08-10T00:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001621",
+    "complaint_id": "CMP-2026-001621",
+    "sent_at": "2026-10-11T04:00:00",
+    "response_at": "2026-10-12T04:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001628",
+    "complaint_id": "CMP-2026-001628",
+    "sent_at": "2026-09-30T00:00:00",
+    "response_at": "2026-10-01T00:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001629",
+    "complaint_id": "CMP-2026-001629",
+    "sent_at": "2026-08-21T09:00:00",
+    "response_at": "2026-08-22T09:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001631",
+    "complaint_id": "CMP-2026-001631",
+    "sent_at": "2026-08-06T06:00:00",
+    "response_at": "2026-08-07T06:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001632",
+    "complaint_id": "CMP-2026-001632",
+    "sent_at": "2026-08-03T13:00:00",
+    "response_at": "2026-08-04T13:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001645",
+    "complaint_id": "CMP-2026-001645",
+    "sent_at": "2026-09-22T11:00:00",
+    "response_at": "2026-09-23T11:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001651",
+    "complaint_id": "CMP-2026-001651",
+    "sent_at": "2026-10-18T03:00:00",
+    "response_at": "2026-10-19T03:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001654",
+    "complaint_id": "CMP-2026-001654",
+    "sent_at": "2026-07-31T13:00:00",
+    "response_at": "2026-08-01T13:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001662",
+    "complaint_id": "CMP-2026-001662",
+    "sent_at": "2026-10-12T04:00:00",
+    "response_at": "2026-10-13T04:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001666",
+    "complaint_id": "CMP-2026-001666",
+    "sent_at": "2026-10-07T15:00:00",
+    "response_at": "2026-10-08T15:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001668",
+    "complaint_id": "CMP-2026-001668",
+    "sent_at": "2026-09-14T17:00:00",
+    "response_at": "2026-09-15T17:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001673",
+    "complaint_id": "CMP-2026-001673",
+    "sent_at": "2026-10-23T14:00:00",
+    "response_at": "2026-10-24T14:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001677",
+    "complaint_id": "CMP-2026-001677",
+    "sent_at": "2026-08-03T07:00:00",
+    "response_at": "2026-08-04T07:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001680",
+    "complaint_id": "CMP-2026-001680",
+    "sent_at": "2026-08-27T22:00:00",
+    "response_at": "2026-08-28T22:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001681",
+    "complaint_id": "CMP-2026-001681",
+    "sent_at": "2026-09-26T17:00:00",
+    "response_at": "2026-09-27T17:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001683",
+    "complaint_id": "CMP-2026-001683",
+    "sent_at": "2026-09-12T09:00:00",
+    "response_at": "2026-09-13T09:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001686",
+    "complaint_id": "CMP-2026-001686",
+    "sent_at": "2026-08-21T21:00:00",
+    "response_at": "2026-08-22T21:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001694",
+    "complaint_id": "CMP-2026-001694",
+    "sent_at": "2026-07-28T08:00:00",
+    "response_at": "2026-07-29T08:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001695",
+    "complaint_id": "CMP-2026-001695",
+    "sent_at": "2026-09-02T08:00:00",
+    "response_at": "2026-09-03T08:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001698",
+    "complaint_id": "CMP-2026-001698",
+    "sent_at": "2026-08-18T08:00:00",
+    "response_at": "2026-08-19T08:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001700",
+    "complaint_id": "CMP-2026-001700",
+    "sent_at": "2026-07-29T18:00:00",
+    "response_at": "2026-07-30T18:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001702",
+    "complaint_id": "CMP-2026-001702",
+    "sent_at": "2026-09-18T22:00:00",
+    "response_at": "2026-09-19T22:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001709",
+    "complaint_id": "CMP-2026-001709",
+    "sent_at": "2026-09-13T04:00:00",
+    "response_at": "2026-09-14T04:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001716",
+    "complaint_id": "CMP-2026-001716",
+    "sent_at": "2026-10-04T20:00:00",
+    "response_at": "2026-10-05T20:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001719",
+    "complaint_id": "CMP-2026-001719",
+    "sent_at": "2026-09-21T20:00:00",
+    "response_at": "2026-09-22T20:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001720",
+    "complaint_id": "CMP-2026-001720",
+    "sent_at": "2026-09-11T00:00:00",
+    "response_at": "2026-09-12T00:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001722",
+    "complaint_id": "CMP-2026-001722",
+    "sent_at": "2026-08-04T23:00:00",
+    "response_at": "2026-08-05T23:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001726",
+    "complaint_id": "CMP-2026-001726",
+    "sent_at": "2026-09-04T03:00:00",
+    "response_at": "2026-09-05T03:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001732",
+    "complaint_id": "CMP-2026-001732",
+    "sent_at": "2026-09-12T19:00:00",
+    "response_at": "2026-09-13T19:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001734",
+    "complaint_id": "CMP-2026-001734",
+    "sent_at": "2026-09-03T02:00:00",
+    "response_at": "2026-09-04T02:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001736",
+    "complaint_id": "CMP-2026-001736",
+    "sent_at": "2026-09-23T00:00:00",
+    "response_at": "2026-09-24T00:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001739",
+    "complaint_id": "CMP-2026-001739",
+    "sent_at": "2026-07-31T08:00:00",
+    "response_at": "2026-08-01T08:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001745",
+    "complaint_id": "CMP-2026-001745",
+    "sent_at": "2026-08-21T17:00:00",
+    "response_at": "2026-08-22T17:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001747",
+    "complaint_id": "CMP-2026-001747",
+    "sent_at": "2026-08-04T18:00:00",
+    "response_at": "2026-08-05T18:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001748",
+    "complaint_id": "CMP-2026-001748",
+    "sent_at": "2026-08-22T19:00:00",
+    "response_at": "2026-08-23T19:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001750",
+    "complaint_id": "CMP-2026-001750",
+    "sent_at": "2026-08-22T10:00:00",
+    "response_at": "2026-08-23T10:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001754",
+    "complaint_id": "CMP-2026-001754",
+    "sent_at": "2026-08-11T06:00:00",
+    "response_at": "2026-08-12T06:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001756",
+    "complaint_id": "CMP-2026-001756",
+    "sent_at": "2026-07-25T20:00:00",
+    "response_at": "2026-07-26T20:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001757",
+    "complaint_id": "CMP-2026-001757",
+    "sent_at": "2026-10-21T04:00:00",
+    "response_at": "2026-10-22T04:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001758",
+    "complaint_id": "CMP-2026-001758",
+    "sent_at": "2026-08-10T06:00:00",
+    "response_at": "2026-08-11T06:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001768",
+    "complaint_id": "CMP-2026-001768",
+    "sent_at": "2026-10-18T04:00:00",
+    "response_at": "2026-10-19T04:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001776",
+    "complaint_id": "CMP-2026-001776",
+    "sent_at": "2026-09-08T23:00:00",
+    "response_at": "2026-09-09T23:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001781",
+    "complaint_id": "CMP-2026-001781",
+    "sent_at": "2026-08-19T17:00:00",
+    "response_at": "2026-08-20T17:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001785",
+    "complaint_id": "CMP-2026-001785",
+    "sent_at": "2026-09-12T16:00:00",
+    "response_at": "2026-09-13T16:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001793",
+    "complaint_id": "CMP-2026-001793",
+    "sent_at": "2026-10-11T20:00:00",
+    "response_at": "2026-10-12T20:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001800",
+    "complaint_id": "CMP-2026-001800",
+    "sent_at": "2026-09-17T18:00:00",
+    "response_at": "2026-09-18T18:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001807",
+    "complaint_id": "CMP-2026-001807",
+    "sent_at": "2026-08-16T17:00:00",
+    "response_at": "2026-08-17T17:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001808",
+    "complaint_id": "CMP-2026-001808",
+    "sent_at": "2026-09-10T00:00:00",
+    "response_at": "2026-09-11T00:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001815",
+    "complaint_id": "CMP-2026-001815",
+    "sent_at": "2026-10-03T03:00:00",
+    "response_at": "2026-10-04T03:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001816",
+    "complaint_id": "CMP-2026-001816",
+    "sent_at": "2026-09-29T23:00:00",
+    "response_at": "2026-09-30T23:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001819",
+    "complaint_id": "CMP-2026-001819",
+    "sent_at": "2026-08-26T11:00:00",
+    "response_at": "2026-08-27T11:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001826",
+    "complaint_id": "CMP-2026-001826",
+    "sent_at": "2026-08-05T07:00:00",
+    "response_at": "2026-08-06T07:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001829",
+    "complaint_id": "CMP-2026-001829",
+    "sent_at": "2026-08-17T03:00:00",
+    "response_at": "2026-08-18T03:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001832",
+    "complaint_id": "CMP-2026-001832",
+    "sent_at": "2026-08-31T15:00:00",
+    "response_at": "2026-09-01T15:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001835",
+    "complaint_id": "CMP-2026-001835",
+    "sent_at": "2026-09-24T15:00:00",
+    "response_at": "2026-09-25T15:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001837",
+    "complaint_id": "CMP-2026-001837",
+    "sent_at": "2026-09-15T11:00:00",
+    "response_at": "2026-09-16T11:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001838",
+    "complaint_id": "CMP-2026-001838",
+    "sent_at": "2026-09-07T16:00:00",
+    "response_at": "2026-09-08T16:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001839",
+    "complaint_id": "CMP-2026-001839",
+    "sent_at": "2026-07-25T20:00:00",
+    "response_at": "2026-07-26T20:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001840",
+    "complaint_id": "CMP-2026-001840",
+    "sent_at": "2026-10-10T13:00:00",
+    "response_at": "2026-10-11T13:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001844",
+    "complaint_id": "CMP-2026-001844",
+    "sent_at": "2026-09-07T14:00:00",
+    "response_at": "2026-09-08T14:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001851",
+    "complaint_id": "CMP-2026-001851",
+    "sent_at": "2026-09-19T16:00:00",
+    "response_at": "2026-09-20T16:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001854",
+    "complaint_id": "CMP-2026-001854",
+    "sent_at": "2026-09-02T21:00:00",
+    "response_at": "2026-09-03T21:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001855",
+    "complaint_id": "CMP-2026-001855",
+    "sent_at": "2026-08-17T22:00:00",
+    "response_at": "2026-08-18T22:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001856",
+    "complaint_id": "CMP-2026-001856",
+    "sent_at": "2026-09-30T18:00:00",
+    "response_at": "2026-10-01T18:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001859",
+    "complaint_id": "CMP-2026-001859",
+    "sent_at": "2026-08-22T11:00:00",
+    "response_at": "2026-08-23T11:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001860",
+    "complaint_id": "CMP-2026-001860",
+    "sent_at": "2026-10-18T19:00:00",
+    "response_at": "2026-10-19T19:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001869",
+    "complaint_id": "CMP-2026-001869",
+    "sent_at": "2026-07-29T11:00:00",
+    "response_at": "2026-07-30T11:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001872",
+    "complaint_id": "CMP-2026-001872",
+    "sent_at": "2026-09-06T07:00:00",
+    "response_at": "2026-09-07T07:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001878",
+    "complaint_id": "CMP-2026-001878",
+    "sent_at": "2026-08-20T20:00:00",
+    "response_at": "2026-08-21T20:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001882",
+    "complaint_id": "CMP-2026-001882",
+    "sent_at": "2026-10-06T20:00:00",
+    "response_at": "2026-10-07T20:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001895",
+    "complaint_id": "CMP-2026-001895",
+    "sent_at": "2026-09-12T11:00:00",
+    "response_at": "2026-09-13T11:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001897",
+    "complaint_id": "CMP-2026-001897",
+    "sent_at": "2026-10-14T21:00:00",
+    "response_at": "2026-10-15T21:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001898",
+    "complaint_id": "CMP-2026-001898",
+    "sent_at": "2026-10-21T05:00:00",
+    "response_at": "2026-10-22T05:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001899",
+    "complaint_id": "CMP-2026-001899",
+    "sent_at": "2026-08-18T16:00:00",
+    "response_at": "2026-08-19T16:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001905",
+    "complaint_id": "CMP-2026-001905",
+    "sent_at": "2026-07-24T21:00:00",
+    "response_at": "2026-07-25T21:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001909",
+    "complaint_id": "CMP-2026-001909",
+    "sent_at": "2026-09-05T20:00:00",
+    "response_at": "2026-09-06T20:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001913",
+    "complaint_id": "CMP-2026-001913",
+    "sent_at": "2026-08-06T22:00:00",
+    "response_at": "2026-08-07T22:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001914",
+    "complaint_id": "CMP-2026-001914",
+    "sent_at": "2026-08-31T23:00:00",
+    "response_at": "2026-09-01T23:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001918",
+    "complaint_id": "CMP-2026-001918",
+    "sent_at": "2026-08-29T11:00:00",
+    "response_at": "2026-08-30T11:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001924",
+    "complaint_id": "CMP-2026-001924",
+    "sent_at": "2026-08-27T23:00:00",
+    "response_at": "2026-08-28T23:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001927",
+    "complaint_id": "CMP-2026-001927",
+    "sent_at": "2026-10-23T10:00:00",
+    "response_at": "2026-10-24T10:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001933",
+    "complaint_id": "CMP-2026-001933",
+    "sent_at": "2026-10-07T03:00:00",
+    "response_at": "2026-10-08T03:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001934",
+    "complaint_id": "CMP-2026-001934",
+    "sent_at": "2026-10-16T05:00:00",
+    "response_at": "2026-10-17T05:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001936",
+    "complaint_id": "CMP-2026-001936",
+    "sent_at": "2026-10-10T11:00:00",
+    "response_at": "2026-10-11T11:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001937",
+    "complaint_id": "CMP-2026-001937",
+    "sent_at": "2026-09-06T18:00:00",
+    "response_at": "2026-09-07T18:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001943",
+    "complaint_id": "CMP-2026-001943",
+    "sent_at": "2026-09-23T09:00:00",
+    "response_at": "2026-09-24T09:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001949",
+    "complaint_id": "CMP-2026-001949",
+    "sent_at": "2026-09-20T11:00:00",
+    "response_at": "2026-09-21T11:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001952",
+    "complaint_id": "CMP-2026-001952",
+    "sent_at": "2026-09-14T06:00:00",
+    "response_at": "2026-09-15T06:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001957",
+    "complaint_id": "CMP-2026-001957",
+    "sent_at": "2026-10-19T05:00:00",
+    "response_at": "2026-10-20T05:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001966",
+    "complaint_id": "CMP-2026-001966",
+    "sent_at": "2026-08-23T00:00:00",
+    "response_at": "2026-08-24T00:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001968",
+    "complaint_id": "CMP-2026-001968",
+    "sent_at": "2026-09-06T04:00:00",
+    "response_at": "2026-09-07T04:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001970",
+    "complaint_id": "CMP-2026-001970",
+    "sent_at": "2026-08-21T02:00:00",
+    "response_at": "2026-08-22T02:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001971",
+    "complaint_id": "CMP-2026-001971",
+    "sent_at": "2026-10-17T23:00:00",
+    "response_at": "2026-10-18T23:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001972",
+    "complaint_id": "CMP-2026-001972",
+    "sent_at": "2026-08-25T22:00:00",
+    "response_at": "2026-08-26T22:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001977",
+    "complaint_id": "CMP-2026-001977",
+    "sent_at": "2026-09-19T08:00:00",
+    "response_at": "2026-09-20T08:00:00",
+    "satisfaction_score": 4,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001982",
+    "complaint_id": "CMP-2026-001982",
+    "sent_at": "2026-10-18T09:00:00",
+    "response_at": "2026-10-19T09:00:00",
+    "satisfaction_score": 2,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001985",
+    "complaint_id": "CMP-2026-001985",
+    "sent_at": "2026-10-25T03:00:00",
+    "response_at": "2026-10-26T03:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001986",
+    "complaint_id": "CMP-2026-001986",
+    "sent_at": "2026-08-04T16:00:00",
+    "response_at": "2026-08-05T16:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-001999",
+    "complaint_id": "CMP-2026-001999",
+    "sent_at": "2026-10-02T05:00:00",
+    "response_at": "2026-10-03T05:00:00",
+    "satisfaction_score": 3,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-002000",
+    "complaint_id": "CMP-2026-002000",
+    "sent_at": "2026-08-30T12:00:00",
+    "response_at": "2026-08-31T12:00:00",
+    "satisfaction_score": 5,
+    "comments": "Synthetic post-resolution feedback"
+  },
+  {
+    "survey_id": "SRV-CMP-2026-000006",
+    "complaint_id": "CMP-2026-000006",
+    "sent_at": "2026-09-07T11:00:00",
+    "response_at": null,
+    "satisfaction_score": null,
+    "comments": "Injected pre-closure survey"
+  }
+]
